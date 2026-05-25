@@ -20,7 +20,7 @@ import com.google.inject.Provides;
  */
 @Slf4j
 @PluginDescriptor(
-    name = "B0aty HCIM Guide",
+    name = "Steve's b0aty HCIM Helper",
     description = "In-game overlay for B0aty's Hardcore Ironman Guide V3",
     tags = {"b0aty", "hcim", "ironman", "guide", "overlay"}
 )
