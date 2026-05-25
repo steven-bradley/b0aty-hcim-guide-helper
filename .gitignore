@@ -17,6 +17,7 @@ Thumbs.db
 
 # Docker
 awscliv2.zip
+Dockerfile
 
 # Kiro
 .kiro/
