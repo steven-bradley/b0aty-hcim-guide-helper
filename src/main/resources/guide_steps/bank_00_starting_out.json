@@ -1,0 +1,72 @@
+[
+  {
+    "stepNumber": 1,
+    "section": "Starting Out",
+    "instruction": "All Settings -> Disable level-up",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 2,
+    "section": "Starting Out",
+    "instruction": "Talk to Father Aereck (3,1) [Restless Ghost]",
+    "entities": [{ "type": "NPC", "gameId": 2812 }],
+    "location": { "x": 3243, "y": 3210, "plane": 0 }
+  },
+  {
+    "stepNumber": 3,
+    "section": "Starting Out",
+    "instruction": "Pickpocket a man/woman [Lumbridge Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 3106 }],
+    "location": { "x": 3222, "y": 3218, "plane": 0 }
+  },
+  {
+    "stepNumber": 4,
+    "section": "Starting Out",
+    "instruction": "Head North-West to Magic combat tutor & drop Air & Mind Runes and claim more.",
+    "entities": [{ "type": "NPC", "gameId": 3705 }],
+    "location": { "x": 3218, "y": 3237, "plane": 0 }
+  },
+  {
+    "stepNumber": 5,
+    "section": "Starting Out",
+    "instruction": "Sell Bronze Dagger, Sword, Wooden Shield & Shortbow to General Store. Buy a Spade Chisel & hammer",
+    "entities": [{ "type": "NPC", "gameId": 528 }],
+    "location": { "x": 3212, "y": 3246, "plane": 0 }
+  },
+  {
+    "stepNumber": 6,
+    "section": "Starting Out",
+    "instruction": "Head East & Start X Marks the Spot on Veos (2,1) & complete the first step (Install Quest Helper plug in on Runelite)",
+    "entities": [{ "type": "NPC", "gameId": 8484 }],
+    "location": { "x": 3228, "y": 3242, "plane": 0 }
+  },
+  {
+    "stepNumber": 7,
+    "section": "Starting Out",
+    "instruction": "Check playtime on Hans [Lumbridge Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 3105 }],
+    "location": { "x": 3222, "y": 3218, "plane": 0 }
+  },
+  {
+    "stepNumber": 8,
+    "section": "Starting Out",
+    "instruction": "Go upstairs and Talk to Duke Horacio (1,1) [Rune Mysteries]",
+    "entities": [{ "type": "NPC", "gameId": 815 }],
+    "location": { "x": 3210, "y": 3221, "plane": 1 }
+  },
+  {
+    "stepNumber": 9,
+    "section": "Starting Out",
+    "instruction": "Go upstairs again and Collect 4x logs on the top floor [Tree Gnome Village]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1511 }],
+    "location": { "x": 3205, "y": 3209, "plane": 2 }
+  },
+  {
+    "stepNumber": 10,
+    "section": "Starting Out",
+    "instruction": "Bank at Lumbridge castle top floor and deposit all. Keep the Shrimps in your bank for later [Family Crest Quest]. Move Coins into first bank slot & Runes to the top slots. Click the lock to Always set Placeholders. Set Bank pin for Count Check randoms or delete the pin from Tutorial Island.",
+    "entities": [],
+    "location": { "x": 3208, "y": 3220, "plane": 2 }
+  }
+]

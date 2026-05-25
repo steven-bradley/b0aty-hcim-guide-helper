@@ -1,0 +1,44 @@
+[
+  {
+    "stepNumber": 324,
+    "section": "Bank 24",
+    "instruction": "Withdraw: 10x Wines, Air Staff, Mind/6xAir/6xEarth/All Water Runes, Glarials Pebble, Rope (17 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 325,
+    "section": "Bank 24",
+    "instruction": "Continue Waterfall Quest by obtaining Glarials Amulet and Urn from the Tomb (drop runes & staff). Tank skeleton hit and run past moss giants",
+    "entities": [],
+    "location": { "x": 2557, "y": 3444, "plane": 0 }
+  },
+  {
+    "stepNumber": 326,
+    "section": "Bank 24",
+    "instruction": "Continue Waterfall Quest",
+    "entities": [],
+    "location": { "x": 2511, "y": 3463, "plane": 0 }
+  },
+  {
+    "stepNumber": 327,
+    "section": "Bank 24",
+    "instruction": "Kill a Fire Giant inside Baxtorian Falls (use water spells). Somebody will get Rune Scimitar on this kill. I hope that's you.",
+    "entities": [{ "type": "NPC", "gameId": 2075 }],
+    "location": { "x": 2556, "y": 9861, "plane": 0 }
+  },
+  {
+    "stepNumber": 328,
+    "section": "Bank 24",
+    "instruction": "Complete Waterfall Quest",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 329,
+    "section": "Bank 24",
+    "instruction": "Minigame Teleport to Soul Wars. Leave portal to Edgeville",
+    "entities": [],
+    "location": { "x": 3097, "y": 3468, "plane": 0 }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "stepNumber": 300,
+    "section": "Bank 21",
+    "instruction": "Withdraw: House Teleport, Coins, Mind Runes, Rope, Bark sample, Barcrawl Card, Translation book, 10 Wine (17 Inventory Spaces)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 301,
+    "section": "Bank 21",
+    "instruction": "Minigame teleport to Castle Wars",
+    "entities": [],
+    "location": { "x": 2440, "y": 3090, "plane": 0 }
+  },
+  {
+    "stepNumber": 302,
+    "section": "Bank 21",
+    "instruction": "Head East to Yanille. Do the Barcrawl by talking to the Bartender in Dragon Inn Barcrawl step (4)",
+    "entities": [{ "type": "NPC", "gameId": 739 }],
+    "location": { "x": 2556, "y": 3080, "plane": 0 }
+  },
+  {
+    "stepNumber": 303,
+    "section": "Bank 21",
+    "instruction": "Talk to Hazelmere to continue Grand Tree",
+    "entities": [{ "type": "NPC", "gameId": 669 }],
+    "location": { "x": 2677, "y": 3088, "plane": 1 }
+  },
+  {
+    "stepNumber": 304,
+    "section": "Bank 21",
+    "instruction": "Right click your house tab and teleport to Outside House",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 305,
+    "section": "Bank 21",
+    "instruction": "Head west and take the boat to Brimhaven",
+    "entities": [],
+    "location": { "x": 2772, "y": 3234, "plane": 0 }
+  },
+  {
+    "stepNumber": 306,
+    "section": "Bank 21",
+    "instruction": "Head to the Bar and complete the Bartender (Dead Man's Chest) Barcrawl (4)",
+    "entities": [{ "type": "NPC", "gameId": 735 }],
+    "location": { "x": 2796, "y": 3190, "plane": 0 }
+  },
+  {
+    "stepNumber": 307,
+    "section": "Bank 21",
+    "instruction": "Talk to Kangai Mau(2,1) in the Brimhaven food store [Tribal Totem]",
+    "entities": [{ "type": "NPC", "gameId": 846 }],
+    "location": { "x": 2791, "y": 3183, "plane": 0 }
+  },
+  {
+    "stepNumber": 308,
+    "section": "Bank 21",
+    "instruction": "Return to Ardougne via Captain Barnaby [Karamja Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 381 }],
+    "location": { "x": 2772, "y": 3234, "plane": 0 }
+  },
+  {
+    "stepNumber": 309,
+    "section": "Bank 21",
+    "instruction": "Continue Tribal Totem up until and including talking to the GPDT employee",
+    "entities": [{ "type": "NPC", "gameId": 845 }],
+    "location": { "x": 2647, "y": 3296, "plane": 0 }
+  },
+  {
+    "stepNumber": 310,
+    "section": "Bank 21",
+    "instruction": "Bank at Ardougne South Bank",
+    "entities": [],
+    "location": { "x": 2655, "y": 3283, "plane": 0 }
+  }
+]

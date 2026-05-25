@@ -1,0 +1,135 @@
+[
+  {
+    "stepNumber": 415,
+    "section": "Bank 31",
+    "instruction": "Withdraw: Mind Runes, Coins, 15 Pineapples, 60 Noted Empty Buckets, 5x Food (if you're low on wines you can buy Stew at Seers Pub) (23 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 416,
+    "section": "Bank 31",
+    "instruction": "Take an Insect Repellent [Merlin's Crystal]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 28 }],
+    "location": { "x": 2809, "y": 3450, "plane": 0 }
+  },
+  {
+    "stepNumber": 417,
+    "section": "Bank 31",
+    "instruction": "Deposit 15 Pineapples into the Compost Bin North and close Compost Bin.",
+    "entities": [{ "type": "OBJECT", "gameId": 7836 }],
+    "location": { "x": 2814, "y": 3463, "plane": 0 }
+  },
+  {
+    "stepNumber": 418,
+    "section": "Bank 31",
+    "instruction": "Buy Spade, Seed Dibber, Rake, 10x Watering Can, 2 plant cures, Filled Plant Pot, 2 Compost. Deposit in Leprechaun with 60x buckets (Keep 9x Watering Can)",
+    "entities": [{ "type": "NPC", "gameId": 2323 }],
+    "location": { "x": 2816, "y": 3463, "plane": 0 }
+  },
+  {
+    "stepNumber": 419,
+    "section": "Bank 31",
+    "instruction": "Withdraw 1 Empty Bucket",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 420,
+    "section": "Bank 31",
+    "instruction": "Buy 3 Empty Sacks",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 421,
+    "section": "Bank 31",
+    "instruction": "Fill the Watering Cans at Camelot Fountain",
+    "entities": [{ "type": "OBJECT", "gameId": 878 }],
+    "location": { "x": 2757, "y": 3500, "plane": 0 }
+  },
+  {
+    "stepNumber": 422,
+    "section": "Bank 31",
+    "instruction": "Collect a Bucket of Wax at the Bees [Merlin's Crystal] (Drop Insect Repellant)",
+    "entities": [{ "type": "OBJECT", "gameId": 68 }],
+    "location": { "x": 2759, "y": 3495, "plane": 0 }
+  },
+  {
+    "stepNumber": 423,
+    "section": "Bank 31",
+    "instruction": "Head North into the Camelot Castle and start Merlins Crystal by talking to King Arthur (1)",
+    "entities": [{ "type": "NPC", "gameId": 251 }],
+    "location": { "x": 2763, "y": 3513, "plane": 0 }
+  },
+  {
+    "stepNumber": 424,
+    "section": "Bank 31",
+    "instruction": "Talk to Sir Gawain (3)",
+    "entities": [{ "type": "NPC", "gameId": 240 }],
+    "location": { "x": 2763, "y": 3513, "plane": 0 }
+  },
+  {
+    "stepNumber": 425,
+    "section": "Bank 31",
+    "instruction": "Talk to Sir Lancelot (3)",
+    "entities": [{ "type": "NPC", "gameId": 239 }],
+    "location": { "x": 2763, "y": 3513, "plane": 0 }
+  },
+  {
+    "stepNumber": 426,
+    "section": "Bank 31",
+    "instruction": "Hide in the Crate by the Candle Seller",
+    "entities": [],
+    "location": { "x": 2799, "y": 3440, "plane": 0 }
+  },
+  {
+    "stepNumber": 427,
+    "section": "Bank 31",
+    "instruction": "Kill Mordred (Go up and down the stairs)",
+    "entities": [{ "type": "NPC", "gameId": 247 }],
+    "location": { "x": 2770, "y": 3402, "plane": 1 }
+  },
+  {
+    "stepNumber": 428,
+    "section": "Bank 31",
+    "instruction": "Kill a bat outside Keep La Faye & take the bones [Merlin's Crystal]",
+    "entities": [{ "type": "NPC", "gameId": 2827 }],
+    "location": { "x": 2770, "y": 3400, "plane": 0 }
+  },
+  {
+    "stepNumber": 429,
+    "section": "Bank 31",
+    "instruction": "Talk to Sherlock [Kandarin Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 6818 }],
+    "location": { "x": 2735, "y": 3413, "plane": 0 }
+  },
+  {
+    "stepNumber": 430,
+    "section": "Bank 31",
+    "instruction": "Drop Food for inventory space",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 431,
+    "section": "Bank 31",
+    "instruction": "Pick 5 Flax [Kandarin Easy Diary][Mournings End Pt 2]",
+    "entities": [{ "type": "OBJECT", "gameId": 14896 }],
+    "location": { "x": 2742, "y": 3444, "plane": 0 }
+  },
+  {
+    "stepNumber": 432,
+    "section": "Bank 31",
+    "instruction": "Talk to Candle maker and obtain a Black Candle [Merlin's Crystal]",
+    "entities": [{ "type": "NPC", "gameId": 562 }],
+    "location": { "x": 2799, "y": 3440, "plane": 0 }
+  },
+  {
+    "stepNumber": 433,
+    "section": "Bank 31",
+    "instruction": "Bank at Camelot Bank. Deposit All",
+    "entities": [],
+    "location": { "x": 2725, "y": 3493, "plane": 0 }
+  }
+]

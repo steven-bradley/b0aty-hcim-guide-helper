@@ -1,0 +1,71 @@
+[
+  {
+    "stepNumber": 117,
+    "section": "Bank 6",
+    "instruction": "Withdraw: Coins.",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 118,
+    "section": "Bank 6",
+    "instruction": "Collect a Bucket of Water by the bank chest",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1929 }],
+    "location": null
+  },
+  {
+    "stepNumber": 119,
+    "section": "Bank 6",
+    "instruction": "Head South-West to Sunset Coast. Be careful of the aggressive NPC's along the way as they can kill you if you do not pay attention.",
+    "entities": [],
+    "location": { "x": 1580, "y": 2980, "plane": 0 }
+  },
+  {
+    "stepNumber": 120,
+    "section": "Bank 6",
+    "instruction": "Loot Fly Fishing Rod, Lobster Pot, 3x Iron Bar (hop worlds), Big Fishing Net & Feather",
+    "entities": [
+      { "type": "GROUND_ITEM", "gameId": 309 },
+      { "type": "GROUND_ITEM", "gameId": 301 },
+      { "type": "GROUND_ITEM", "gameId": 2351 },
+      { "type": "GROUND_ITEM", "gameId": 303 },
+      { "type": "GROUND_ITEM", "gameId": 314 }
+    ],
+    "location": { "x": 1580, "y": 2980, "plane": 0 }
+  },
+  {
+    "stepNumber": 121,
+    "section": "Bank 6",
+    "instruction": "Travel with Antonia to Aldarin",
+    "entities": [{ "type": "NPC", "gameId": 12540 }],
+    "location": { "x": 1380, "y": 2940, "plane": 0 }
+  },
+  {
+    "stepNumber": 122,
+    "section": "Bank 6",
+    "instruction": "Take Pot of Flour",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1933 }],
+    "location": { "x": 1380, "y": 2940, "plane": 0 }
+  },
+  {
+    "stepNumber": 123,
+    "section": "Bank 6",
+    "instruction": "Buy 6 Onions [Yellow Dyes]",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1957 }],
+    "location": { "x": 1380, "y": 2940, "plane": 0 }
+  },
+  {
+    "stepNumber": 124,
+    "section": "Bank 6",
+    "instruction": "Pick a Cabbage [Black Knight's Fortress]",
+    "entities": [{ "type": "OBJECT", "gameId": 1161 }],
+    "location": { "x": 1380, "y": 2935, "plane": 0 }
+  },
+  {
+    "stepNumber": 125,
+    "section": "Bank 6",
+    "instruction": "Bank South and Deposit all",
+    "entities": [],
+    "location": null
+  }
+]

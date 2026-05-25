@@ -1,0 +1,125 @@
+[
+  {
+    "stepNumber": 11,
+    "section": "Bank 1",
+    "instruction": "Withdraw: Coins, Air Runes, Mind Runes, Bread, Spade, Tinderbox, Air Talisman, Treasure Scroll (8 Inventory slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 12,
+    "section": "Bank 1",
+    "instruction": "Go down south staircase twice",
+    "entities": [],
+    "location": { "x": 3208, "y": 3214, "plane": 0 }
+  },
+  {
+    "stepNumber": 13,
+    "section": "Bank 1",
+    "instruction": "Collect the Empty Jug, Bowl & Knife in Lumbridge kitchen",
+    "entities": [
+      { "type": "GROUND_ITEM", "gameId": 1935 },
+      { "type": "GROUND_ITEM", "gameId": 1923 },
+      { "type": "GROUND_ITEM", "gameId": 946 }
+    ],
+    "location": { "x": 3208, "y": 3214, "plane": 0 }
+  },
+  {
+    "stepNumber": 14,
+    "section": "Bank 1",
+    "instruction": "Fill the jug & bowl on the sink in the kitchen [Monk's Friend]",
+    "entities": [{ "type": "OBJECT", "gameId": 12279 }],
+    "location": { "x": 3211, "y": 3215, "plane": 0 }
+  },
+  {
+    "stepNumber": 15,
+    "section": "Bank 1",
+    "instruction": "Complete 2nd Step of X Marks The Spot",
+    "entities": [],
+    "location": { "x": 3203, "y": 3212, "plane": 0 }
+  },
+  {
+    "stepNumber": 16,
+    "section": "Bank 1",
+    "instruction": "Kill a giant rat with Wind Strike and collect the Bones + Raw Rat Meat [Druidic Ritual]",
+    "entities": [{ "type": "NPC", "gameId": 2510 }],
+    "location": { "x": 3203, "y": 3191, "plane": 0 }
+  },
+  {
+    "stepNumber": 17,
+    "section": "Bank 1",
+    "instruction": "Head West towards Draynor hugging the fence to avoid the Jail Guards",
+    "entities": [],
+    "location": { "x": 3166, "y": 3172, "plane": 0 }
+  },
+  {
+    "stepNumber": 18,
+    "section": "Bank 1",
+    "instruction": "Talk to Father Urhney in the lumbridge swamp for Ghost Speak Amulet. (2,1) Wield this.",
+    "entities": [{ "type": "NPC", "gameId": 2813 }],
+    "location": { "x": 3147, "y": 3175, "plane": 0 }
+  },
+  {
+    "stepNumber": 19,
+    "section": "Bank 1",
+    "instruction": "Take Leather Gloves on the table inside his house & wield",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1059 }],
+    "location": { "x": 3147, "y": 3177, "plane": 0 }
+  },
+  {
+    "stepNumber": 20,
+    "section": "Bank 1",
+    "instruction": "Head to the Wizards Tower",
+    "entities": [],
+    "location": { "x": 3104, "y": 3162, "plane": 0 }
+  },
+  {
+    "stepNumber": 21,
+    "section": "Bank 1",
+    "instruction": "Take Leather Boots off the table & wield",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1061 }],
+    "location": { "x": 3104, "y": 3162, "plane": 0 }
+  },
+  {
+    "stepNumber": 22,
+    "section": "Bank 1",
+    "instruction": "Collect 3x Logs next to the stairs [Tree Gnome Village]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1511 }],
+    "location": { "x": 3103, "y": 3159, "plane": 0 }
+  },
+  {
+    "stepNumber": 23,
+    "section": "Bank 1",
+    "instruction": "Head to the basement & Talk to Sedridor to continue Rune Mysteries (1,2,1)",
+    "entities": [{ "type": "NPC", "gameId": 5034 }],
+    "location": { "x": 3104, "y": 9571, "plane": 0 }
+  },
+  {
+    "stepNumber": 24,
+    "section": "Bank 1",
+    "instruction": "Kill a Chicken. Take Everything (Make sure you get a feather, else hop worlds and repeat)[Client of Kourend + Druidic Ritual]",
+    "entities": [{ "type": "NPC", "gameId": 1017 }],
+    "location": { "x": 3171, "y": 3196, "plane": 0 }
+  },
+  {
+    "stepNumber": 25,
+    "section": "Bank 1",
+    "instruction": "Collect 3x Logs [Tree Gnome Village]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1511 }],
+    "location": null
+  },
+  {
+    "stepNumber": 26,
+    "section": "Bank 1",
+    "instruction": "Return to Draynor & talk to Friendly Forester and obtain Forestry kit (right click shop and buy 1)",
+    "entities": [{ "type": "NPC", "gameId": 12246 }],
+    "location": { "x": 3090, "y": 3237, "plane": 0 }
+  },
+  {
+    "stepNumber": 27,
+    "section": "Bank 1",
+    "instruction": "Bank at Draynor and Deposit all",
+    "entities": [],
+    "location": { "x": 3092, "y": 3245, "plane": 0 }
+  }
+]

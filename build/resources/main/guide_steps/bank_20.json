@@ -1,0 +1,65 @@
+[
+  {
+    "stepNumber": 291,
+    "section": "Bank 20",
+    "instruction": "Withdraw: Barcrawl Card, Coins, Knife (3 Inventory Spots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 292,
+    "section": "Bank 20",
+    "instruction": "Trade Hudo North. Buy 1x Gnome Spice [Recipe for Disaster Goblin]",
+    "entities": [{ "type": "NPC", "gameId": 1433 }],
+    "location": { "x": 2449, "y": 3503, "plane": 0 }
+  },
+  {
+    "stepNumber": 293,
+    "section": "Bank 20",
+    "instruction": "Trade Gnome Waiter. Buy Toad crunchies (Premade t'd crunch) [Mournings End Pt 1]",
+    "entities": [{ "type": "NPC", "gameId": 1418 }],
+    "location": { "x": 2445, "y": 3501, "plane": 0 }
+  },
+  {
+    "stepNumber": 294,
+    "section": "Bank 20",
+    "instruction": "Head East. Talk to Blurberry and continue the Barcrawl",
+    "entities": [{ "type": "NPC", "gameId": 1435 }],
+    "location": { "x": 2482, "y": 3491, "plane": 1 }
+  },
+  {
+    "stepNumber": 295,
+    "section": "Bank 20",
+    "instruction": "Trade Heckel Funch East of Blurberry. Buy 10x Pineapple, 2x orange, 2x Lemon, 1 Cocktail Shaker, Cocktail Glass",
+    "entities": [{ "type": "NPC", "gameId": 1434 }],
+    "location": { "x": 2489, "y": 3491, "plane": 1 }
+  },
+  {
+    "stepNumber": 296,
+    "section": "Bank 20",
+    "instruction": "Make a Fruit Blast by clicking cocktail shaker [Recipe for Disaster]",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 2084 }],
+    "location": null
+  },
+  {
+    "stepNumber": 297,
+    "section": "Bank 20",
+    "instruction": "Cut the orange and lemon into slices [Recipe for Disaster]",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 298,
+    "section": "Bank 20",
+    "instruction": "Buy 5 Buckets of Milk & 3 Vodka from Heckel Funch",
+    "entities": [{ "type": "NPC", "gameId": 1434 }],
+    "location": { "x": 2489, "y": 3491, "plane": 1 }
+  },
+  {
+    "stepNumber": 299,
+    "section": "Bank 20",
+    "instruction": "Bank west and deposit all",
+    "entities": [],
+    "location": { "x": 2449, "y": 3482, "plane": 1 }
+  }
+]

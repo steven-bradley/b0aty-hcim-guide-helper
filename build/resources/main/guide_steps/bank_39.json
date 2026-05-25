@@ -1,0 +1,173 @@
+[
+  {
+    "stepNumber": 518,
+    "section": "Bank 39A",
+    "instruction": "Withdraw: Coins",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 519,
+    "section": "Bank 39A",
+    "instruction": "OPTIONAL: Sell items obtained from Shilo Village quest to Yanni Salika when starting One Small Favour quest. Total = 2,000 gp (Tattered scroll, Crumpled scroll, Bervirius notes, Bone key, Stone-plaque, Locating crystal, Beads of the dead)",
+    "entities": [{ "type": "NPC", "gameId": 513 }],
+    "location": { "x": 2878, "y": 2963, "plane": 0 }
+  },
+  {
+    "stepNumber": 520,
+    "section": "Bank 39A",
+    "instruction": "Buy 5,300 Feathers from the Shilo Village fishing shop.",
+    "entities": [{ "type": "NPC", "gameId": 517 }],
+    "location": { "x": 2859, "y": 2974, "plane": 0 }
+  },
+  {
+    "stepNumber": 521,
+    "section": "Bank 39A",
+    "instruction": "Go up the ladder and buy a ticket from Seravel (1)",
+    "entities": [{ "type": "NPC", "gameId": 514 }],
+    "location": { "x": 2859, "y": 2974, "plane": 1 }
+  },
+  {
+    "stepNumber": 522,
+    "section": "Bank 39A",
+    "instruction": "Start One Small Favour by talking to Yanni Salika (2,5,1) [One Small Favour]",
+    "entities": [{ "type": "NPC", "gameId": 513 }],
+    "location": { "x": 2878, "y": 2963, "plane": 0 }
+  },
+  {
+    "stepNumber": 523,
+    "section": "Bank 39B",
+    "instruction": "Withdraw: Teleport Runes, Coins, Barcrawl Card, Bread, Bat Bones, Lit Black Candle, Steel Pickaxe, Silver Ore, Sickle Mould, Ship Ticket (16 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 524,
+    "section": "Bank 39B",
+    "instruction": "Talk to Jungle Forester (1,1) to continue One Small Favor and obtain Blunt axe.",
+    "entities": [{ "type": "NPC", "gameId": 3561 }],
+    "location": { "x": 2861, "y": 2942, "plane": 0 }
+  },
+  {
+    "stepNumber": 525,
+    "section": "Bank 39B",
+    "instruction": "Head West & take the Lady of the Waves to Port Khazard [Karamja Medium Diary]",
+    "entities": [],
+    "location": { "x": 2834, "y": 2954, "plane": 0 }
+  },
+  {
+    "stepNumber": 526,
+    "section": "Bank 39B",
+    "instruction": "Buy your 100 Soda Ash/Sand if you haven't yet",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 527,
+    "section": "Bank 39B",
+    "instruction": "Teleport to Falador. Pickpocket a guard [Falador Medium Diary]",
+    "entities": [{ "type": "NPC", "gameId": 3245 }],
+    "location": { "x": 2965, "y": 3394, "plane": 0 }
+  },
+  {
+    "stepNumber": 528,
+    "section": "Bank 39B",
+    "instruction": "Buy a steel Mace from Flynn's Mace Market [In Search of Myreque]",
+    "entities": [{ "type": "NPC", "gameId": 580 }],
+    "location": { "x": 2950, "y": 3387, "plane": 0 }
+  },
+  {
+    "stepNumber": 529,
+    "section": "Bank 39B",
+    "instruction": "Complete the Barcrawl in Rising Sun Inn",
+    "entities": [{ "type": "NPC", "gameId": 737 }],
+    "location": { "x": 2957, "y": 3370, "plane": 0 }
+  },
+  {
+    "stepNumber": 530,
+    "section": "Bank 39B",
+    "instruction": "Make a Silver Sickle",
+    "entities": [{ "type": "OBJECT", "gameId": 24009 }],
+    "location": { "x": 2975, "y": 3369, "plane": 0 }
+  },
+  {
+    "stepNumber": 531,
+    "section": "Bank 39B",
+    "instruction": "Run to Taverley and talk to Lady of the Lake (3)",
+    "entities": [{ "type": "NPC", "gameId": 250 }],
+    "location": { "x": 2924, "y": 3404, "plane": 0 }
+  },
+  {
+    "stepNumber": 532,
+    "section": "Bank 39B",
+    "instruction": "Right click House Teleport spell in spellbook and chose Outside House, then head east to Port Sarim",
+    "entities": [],
+    "location": { "x": 3014, "y": 3207, "plane": 0 }
+  },
+  {
+    "stepNumber": 533,
+    "section": "Bank 39B",
+    "instruction": "Enter Jewellery Shop to get Excalibur Grum's Gold Exchange [Merlin's Crystal]",
+    "entities": [{ "type": "NPC", "gameId": 556 }],
+    "location": { "x": 3013, "y": 3246, "plane": 0 }
+  },
+  {
+    "stepNumber": 534,
+    "section": "Bank 39B",
+    "instruction": "Talk to Brian (3,2,4) [One Small Favour]",
+    "entities": [{ "type": "NPC", "gameId": 3537 }],
+    "location": { "x": 3027, "y": 3246, "plane": 0 }
+  },
+  {
+    "stepNumber": 535,
+    "section": "Bank 39B",
+    "instruction": "Teleport to Varrock [Varrock Medium Diary]",
+    "entities": [],
+    "location": { "x": 3213, "y": 3424, "plane": 0 }
+  },
+  {
+    "stepNumber": 536,
+    "section": "Bank 39B",
+    "instruction": "Check Chaos Altar in SE Varrock for incantation [Merlins Crystal]",
+    "entities": [{ "type": "OBJECT", "gameId": 61 }],
+    "location": { "x": 3259, "y": 3385, "plane": 0 }
+  },
+  {
+    "stepNumber": 537,
+    "section": "Bank 39B",
+    "instruction": "Talk to Zamorak Mage for Scrying Orb (1,2,1,1) [Enter the Abyss]",
+    "entities": [{ "type": "NPC", "gameId": 2581 }],
+    "location": { "x": 3102, "y": 3557, "plane": 0 }
+  },
+  {
+    "stepNumber": 538,
+    "section": "Bank 39B",
+    "instruction": "Teleport on Aubury [Enter the Abyss][Varrock Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 5913 }],
+    "location": { "x": 3253, "y": 3401, "plane": 0 }
+  },
+  {
+    "stepNumber": 539,
+    "section": "Bank 39B",
+    "instruction": "Teleport to Camelot. Complete Merlins Crystal",
+    "entities": [{ "type": "NPC", "gameId": 251 }],
+    "location": { "x": 2763, "y": 3513, "plane": 0 }
+  },
+  {
+    "stepNumber": 540,
+    "section": "Bank 39B",
+    "instruction": "Start Holy Grail quest. Talk to King Arthur (1). Talk to Merlin (1)",
+    "entities": [
+      { "type": "NPC", "gameId": 251 },
+      { "type": "NPC", "gameId": 249 }
+    ],
+    "location": { "x": 2763, "y": 3513, "plane": 0 }
+  },
+  {
+    "stepNumber": 541,
+    "section": "Bank 39B",
+    "instruction": "Minigame Teleport to Last Man Standing -> Castle Wars portal",
+    "entities": [],
+    "location": { "x": 2440, "y": 3090, "plane": 0 }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "stepNumber": 266,
+    "section": "Bank 18",
+    "instruction": "Withdraw: 4x Wines, Poisoned Sheep feed (5 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 267,
+    "section": "Bank 18",
+    "instruction": "Continue Sheep Herder until all 4 Sheep bones are burnt",
+    "entities": [],
+    "location": { "x": 2612, "y": 3299, "plane": 0 }
+  },
+  {
+    "stepNumber": 268,
+    "section": "Bank 18",
+    "instruction": "Drop Poisoned Sheep feed, Plague robes & cattleprod once done.",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 269,
+    "section": "Bank 18",
+    "instruction": "Head North hugging the Fishing Guild to avoid Moss Giants",
+    "entities": [],
+    "location": { "x": 2563, "y": 3461, "plane": 0 }
+  },
+  {
+    "stepNumber": 270,
+    "section": "Bank 18",
+    "instruction": "Start Dwarf Cannon up to needing to go to Falador",
+    "entities": [{ "type": "NPC", "gameId": 208 }],
+    "location": { "x": 2563, "y": 3461, "plane": 0 }
+  },
+  {
+    "stepNumber": 271,
+    "section": "Bank 18",
+    "instruction": "Head North to Barbarian Assault. Deposit all",
+    "entities": [],
+    "location": { "x": 2535, "y": 3574, "plane": 0 }
+  },
+  {
+    "stepNumber": 272,
+    "section": "Bank 18",
+    "instruction": "Talk to Captain Cain & unlock Barbarian Assault teleport (Skip tutorial)",
+    "entities": [{ "type": "NPC", "gameId": 5030 }],
+    "location": { "x": 2531, "y": 3569, "plane": 0 }
+  },
+  {
+    "stepNumber": 273,
+    "section": "Bank 18",
+    "instruction": "Start the Barcrawl by talking to the Barbarian guard (1,2)",
+    "entities": [{ "type": "NPC", "gameId": 384 }],
+    "location": { "x": 2547, "y": 3560, "plane": 0 }
+  },
+  {
+    "stepNumber": 274,
+    "section": "Bank 18",
+    "instruction": "Loot & Bank 139 Planks (1x 27 Inventory & 4x 28)",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 960 }],
+    "location": { "x": 2535, "y": 3574, "plane": 0 }
+  }
+]

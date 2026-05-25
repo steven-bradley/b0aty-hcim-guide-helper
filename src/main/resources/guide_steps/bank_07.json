@@ -1,0 +1,51 @@
+[
+  {
+    "stepNumber": 126,
+    "section": "Bank 7",
+    "instruction": "Withdraw: 28x Red Eclipse",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 127,
+    "section": "Bank 7",
+    "instruction": "Head West and trade Antonius and sell all 28 at once.",
+    "entities": [{ "type": "NPC", "gameId": 12541 }],
+    "location": { "x": 1370, "y": 2940, "plane": 0 }
+  },
+  {
+    "stepNumber": 128,
+    "section": "Bank 7",
+    "instruction": "Head East after selling Eclipse reds and buy 2 Sunbeam ales from the Bartender in the pub. These give you a +1 agility boost to use the Taverley Dungeon shortcut later.",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 29217 }],
+    "location": { "x": 1390, "y": 2945, "plane": 0 }
+  },
+  {
+    "stepNumber": 129,
+    "section": "Bank 7",
+    "instruction": "Head north-east to the Gem Store & buy 9x Uncut Sapphire, 10x Uncut Emerald, and as many Uncut Rubies as possible. (If the shop is out of stock, try to get a few or skip this step and mine a star after unlocking teleports to buy a Bag full of gems with stardust)",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1623 }],
+    "location": { "x": 1410, "y": 2960, "plane": 0 }
+  },
+  {
+    "stepNumber": 130,
+    "section": "Bank 7",
+    "instruction": "Head South to Mistrock & deposit all there",
+    "entities": [],
+    "location": { "x": 1370, "y": 2880, "plane": 0 }
+  },
+  {
+    "stepNumber": 131,
+    "section": "Bank 7",
+    "instruction": "Buy Steel Pickaxe, 150 Wines, 20 mindbombs & 20 Stews (They are infinite stock so super fast to collect here)",
+    "entities": [],
+    "location": { "x": 1370, "y": 2880, "plane": 0 }
+  },
+  {
+    "stepNumber": 132,
+    "section": "Bank 7",
+    "instruction": "Bank at Mistrock and deposit all.",
+    "entities": [],
+    "location": { "x": 1370, "y": 2880, "plane": 0 }
+  }
+]

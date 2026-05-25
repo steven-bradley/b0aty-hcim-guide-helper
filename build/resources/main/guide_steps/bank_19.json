@@ -1,0 +1,114 @@
+[
+  {
+    "stepNumber": 275,
+    "section": "Bank 19",
+    "instruction": "Withdraw: Mind Runes, Air Staff, Leather Gloves+Boots, Coins, 6x Logs, Rope, Barcrawl Card, 10x Wines (23 Inventory Spots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 276,
+    "section": "Bank 19",
+    "instruction": "Wield Air Staff, Gloves & Boots",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 277,
+    "section": "Bank 19",
+    "instruction": "Head south and start the Waterfall Quest by talking to Almera",
+    "entities": [{ "type": "NPC", "gameId": 304 }],
+    "location": { "x": 2521, "y": 3495, "plane": 0 }
+  },
+  {
+    "stepNumber": 278,
+    "section": "Bank 19",
+    "instruction": "Continue until you receive the Book on Baxtorian",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 279,
+    "section": "Bank 19",
+    "instruction": "Head South to East Ardougne",
+    "entities": [],
+    "location": { "x": 2574, "y": 3323, "plane": 0 }
+  },
+  {
+    "stepNumber": 280,
+    "section": "Bank 19",
+    "instruction": "Head into the pub for the Barcrawl (Bartender (Flying Horse Inn))",
+    "entities": [{ "type": "NPC", "gameId": 738 }],
+    "location": { "x": 2574, "y": 3323, "plane": 0 }
+  },
+  {
+    "stepNumber": 281,
+    "section": "Bank 19",
+    "instruction": "Start Temple of Ikov by talking to Lucien (2,1)",
+    "entities": [{ "type": "NPC", "gameId": 272 }],
+    "location": { "x": 2573, "y": 3321, "plane": 0 }
+  },
+  {
+    "stepNumber": 282,
+    "section": "Bank 19",
+    "instruction": "Start Hazeel Cult [Side with Hazeel]",
+    "entities": [{ "type": "NPC", "gameId": 223 }],
+    "location": { "x": 2565, "y": 3267, "plane": 0 }
+  },
+  {
+    "stepNumber": 283,
+    "section": "Bank 19",
+    "instruction": "Collect 2x Purple Dye when passing [Goblin RFD][Song of the Elves]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1773 }],
+    "location": { "x": 2557, "y": 3267, "plane": 0 }
+  },
+  {
+    "stepNumber": 284,
+    "section": "Bank 19",
+    "instruction": "Complete Hazeel Cult",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 285,
+    "section": "Bank 19",
+    "instruction": "Head to Tree Gnome Village. Collect Glarials Pebble [Waterfall Quest]",
+    "entities": [{ "type": "NPC", "gameId": 305 }],
+    "location": { "x": 2536, "y": 3148, "plane": 0 }
+  },
+  {
+    "stepNumber": 286,
+    "section": "Bank 19",
+    "instruction": "Complete Tree Gnome Village. Khazard Warlord Safespot: https://www.youtube.com/watch?v=D7wFjCCKRAU",
+    "entities": [{ "type": "NPC", "gameId": 477 }],
+    "location": { "x": 2456, "y": 3301, "plane": 0 }
+  },
+  {
+    "stepNumber": 287,
+    "section": "Bank 19",
+    "instruction": "Take the bones [Demon Slayer]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 526 }],
+    "location": { "x": 2456, "y": 3301, "plane": 0 }
+  },
+  {
+    "stepNumber": 288,
+    "section": "Bank 19",
+    "instruction": "Take Spirit Tree to Gnome Stronghold (2)",
+    "entities": [],
+    "location": { "x": 2461, "y": 3444, "plane": 0 }
+  },
+  {
+    "stepNumber": 289,
+    "section": "Bank 19",
+    "instruction": "Talk to King Narnode (1,1) [The Grand Tree]",
+    "entities": [{ "type": "NPC", "gameId": 670 }],
+    "location": { "x": 2465, "y": 3496, "plane": 0 }
+  },
+  {
+    "stepNumber": 290,
+    "section": "Bank 19",
+    "instruction": "Bank up the ladder",
+    "entities": [],
+    "location": { "x": 2449, "y": 3482, "plane": 1 }
+  }
+]

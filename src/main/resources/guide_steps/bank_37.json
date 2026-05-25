@@ -1,0 +1,44 @@
+[
+  {
+    "stepNumber": 500,
+    "section": "Bank 37",
+    "instruction": "Withdraw: Coins, Willow Blackjack, 2 Law, 2 Water, 23x Wines",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 501,
+    "section": "Bank 37",
+    "instruction": "Head to Pollnivneach. Blackjack to 50 Thieving. Buy wines from the bar to heal. Don't die here, it's possible, but only if you're not paying attention.",
+    "entities": [{ "type": "NPC", "gameId": 1880 }],
+    "location": { "x": 3351, "y": 3003, "plane": 0 }
+  },
+  {
+    "stepNumber": 502,
+    "section": "Bank 37",
+    "instruction": "Teleport to Ardougne [Ardougne Medium Diary]",
+    "entities": [],
+    "location": { "x": 2662, "y": 3305, "plane": 0 }
+  },
+  {
+    "stepNumber": 503,
+    "section": "Bank 37",
+    "instruction": "Buy 1x silver bar, 1x Silver Ore & 2x Unstrung Symbols from Silver Merchant [Nature Spirit][Animal Magnetism]",
+    "entities": [{ "type": "NPC", "gameId": 569 }],
+    "location": { "x": 2660, "y": 3316, "plane": 0 }
+  },
+  {
+    "stepNumber": 504,
+    "section": "Bank 37",
+    "instruction": "Buy 1x Spice from the Spice seller [Desert Treasure]",
+    "entities": [{ "type": "NPC", "gameId": 572 }],
+    "location": { "x": 2658, "y": 3299, "plane": 0 }
+  },
+  {
+    "stepNumber": 505,
+    "section": "Bank 37",
+    "instruction": "Bank the above",
+    "entities": [],
+    "location": { "x": 2655, "y": 3283, "plane": 0 }
+  }
+]

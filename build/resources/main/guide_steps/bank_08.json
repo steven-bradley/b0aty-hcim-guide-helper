@@ -1,0 +1,65 @@
+[
+  {
+    "stepNumber": 133,
+    "section": "Bank 8",
+    "instruction": "Withdraw: Coins, Research Notes, Bronze Pickaxe (3 inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 134,
+    "section": "Bank 8",
+    "instruction": "Home Teleport to Lumbridge",
+    "entities": [],
+    "location": { "x": 3222, "y": 3218, "plane": 0 }
+  },
+  {
+    "stepNumber": 135,
+    "section": "Bank 8",
+    "instruction": "Head to the Wizards Tower",
+    "entities": [],
+    "location": { "x": 3104, "y": 3162, "plane": 0 }
+  },
+  {
+    "stepNumber": 136,
+    "section": "Bank 8",
+    "instruction": "Take 3x Logs",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1511 }],
+    "location": { "x": 3103, "y": 3159, "plane": 0 }
+  },
+  {
+    "stepNumber": 137,
+    "section": "Bank 8",
+    "instruction": "Search the altar to collect the Ghost's skull. Run from the level 13 skeleton.",
+    "entities": [{ "type": "OBJECT", "gameId": 2145 }],
+    "location": { "x": 3120, "y": 9567, "plane": 0 }
+  },
+  {
+    "stepNumber": 138,
+    "section": "Bank 8",
+    "instruction": "Complete Rune Mysteries",
+    "entities": [{ "type": "NPC", "gameId": 5034 }],
+    "location": { "x": 3104, "y": 9571, "plane": 0 }
+  },
+  {
+    "stepNumber": 139,
+    "section": "Bank 8",
+    "instruction": "Teleport to Rune Essence Mine [Lumbridge Easy Diary]",
+    "entities": [],
+    "location": { "x": 2911, "y": 4832, "plane": 0 }
+  },
+  {
+    "stepNumber": 140,
+    "section": "Bank 8",
+    "instruction": "Take 3x Logs",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1511 }],
+    "location": null
+  },
+  {
+    "stepNumber": 141,
+    "section": "Bank 8",
+    "instruction": "Head North to Draynor and Deposit all",
+    "entities": [],
+    "location": { "x": 3092, "y": 3245, "plane": 0 }
+  }
+]

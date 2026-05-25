@@ -1,0 +1,201 @@
+[
+  {
+    "stepNumber": 374,
+    "section": "Bank 29",
+    "instruction": "Withdraw: Coins, Enchanted Quill, Enchanted Scroll, Stew, Pickaxe, Chronicle, Axe, Tinderbox (8 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 375,
+    "section": "Bank 29",
+    "instruction": "Head back to Veos [Client of Kourend]",
+    "entities": [{ "type": "NPC", "gameId": 10724 }],
+    "location": { "x": 1824, "y": 3691, "plane": 0 }
+  },
+  {
+    "stepNumber": 376,
+    "section": "Bank 29",
+    "instruction": "Take Mine Cart to Arceuss and continue Client of Kourend by Activating the Mysterious Orb by the Dark Altar",
+    "entities": [],
+    "location": { "x": 1718, "y": 3881, "plane": 0 }
+  },
+  {
+    "stepNumber": 377,
+    "section": "Bank 29",
+    "instruction": "Minecart back to Piscarilius to complete Client of Kourend. Use Lamps on Herblore",
+    "entities": [{ "type": "NPC", "gameId": 10724 }],
+    "location": { "x": 1824, "y": 3691, "plane": 0 }
+  },
+  {
+    "stepNumber": 378,
+    "section": "Bank 29",
+    "instruction": "Buy inventory of sardines north for Kittens. Bank these at Piscarllius",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 379,
+    "section": "Bank 29",
+    "instruction": "Complete Queen of Thieves",
+    "entities": [],
+    "location": { "x": 1797, "y": 3734, "plane": 0 }
+  },
+  {
+    "stepNumber": 380,
+    "section": "Bank 29",
+    "instruction": "Trade Warrens General Store [Kourend Easy Diary]",
+    "entities": [],
+    "location": { "x": 1803, "y": 3744, "plane": 0 }
+  },
+  {
+    "stepNumber": 381,
+    "section": "Bank 29",
+    "instruction": "Chronicle to Varrock",
+    "entities": [],
+    "location": { "x": 3200, "y": 3393, "plane": 0 }
+  },
+  {
+    "stepNumber": 382,
+    "section": "Bank 29",
+    "instruction": "Start Dragon Slayer (2,1) [Varrock Medium Diary]",
+    "entities": [{ "type": "NPC", "gameId": 5868 }],
+    "location": { "x": 3190, "y": 3362, "plane": 0 }
+  },
+  {
+    "stepNumber": 383,
+    "section": "Bank 29",
+    "instruction": "Jump over the Fence south of Varrock [Varrock Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 16518 }],
+    "location": { "x": 3240, "y": 3334, "plane": 0 }
+  },
+  {
+    "stepNumber": 384,
+    "section": "Bank 29",
+    "instruction": "Collect 4x Redberry & 1x Cadavaberry (West of East Varrock mine)",
+    "entities": [{ "type": "OBJECT", "gameId": 23628 }],
+    "location": { "x": 3268, "y": 3370, "plane": 0 }
+  },
+  {
+    "stepNumber": 385,
+    "section": "Bank 29",
+    "instruction": "Mine an Iron Ore [Varrock Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 11364 }],
+    "location": { "x": 3285, "y": 3369, "plane": 0 }
+  },
+  {
+    "stepNumber": 386,
+    "section": "Bank 29",
+    "instruction": "Mine 4x Copper Ore [Dorics Quest]",
+    "entities": [{ "type": "OBJECT", "gameId": 11360 }],
+    "location": { "x": 3285, "y": 3369, "plane": 0 }
+  },
+  {
+    "stepNumber": 387,
+    "section": "Bank 29",
+    "instruction": "Cut trees heading towards the Digsite",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 388,
+    "section": "Bank 29",
+    "instruction": "Talk to Examiner (1) [Digsite Quest]",
+    "entities": [{ "type": "NPC", "gameId": 5917 }],
+    "location": { "x": 3362, "y": 3337, "plane": 0 }
+  },
+  {
+    "stepNumber": 389,
+    "section": "Bank 29",
+    "instruction": "Cut trees heading towards the Varlamore Quetzin. Finish 15 Woodcutting & light all the logs",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 390,
+    "section": "Bank 29",
+    "instruction": "Head to Varlamore",
+    "entities": [],
+    "location": { "x": 1700, "y": 3142, "plane": 0 }
+  },
+  {
+    "stepNumber": 391,
+    "section": "Bank 29",
+    "instruction": "Buy Bronze Spear from the Sword shop",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1237 }],
+    "location": { "x": 1700, "y": 3142, "plane": 0 }
+  },
+  {
+    "stepNumber": 392,
+    "section": "Bank 29",
+    "instruction": "Bank all but axe and coins.",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 393,
+    "section": "Bank 29",
+    "instruction": "Buy an Inventory of Silk from Fortis Silk Stall & bank it",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 394,
+    "section": "Bank 29",
+    "instruction": "Head South. Complete Ribbiting Tale of a Lily Pad Dispute quest",
+    "entities": [],
+    "location": { "x": 1680, "y": 3120, "plane": 0 }
+  },
+  {
+    "stepNumber": 395,
+    "section": "Bank 29",
+    "instruction": "Head west and Collect the Fishing Rod from spawn next to Fishing Shop",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 307 }],
+    "location": { "x": 1660, "y": 3100, "plane": 0 }
+  },
+  {
+    "stepNumber": 396,
+    "section": "Bank 29",
+    "instruction": "Head North-west and collect another Lobster Pot and Iron Bar",
+    "entities": [
+      { "type": "GROUND_ITEM", "gameId": 301 },
+      { "type": "GROUND_ITEM", "gameId": 2351 }
+    ],
+    "location": { "x": 1640, "y": 3110, "plane": 0 }
+  },
+  {
+    "stepNumber": 397,
+    "section": "Bank 29",
+    "instruction": "Talk to Antonia to take the boat to Aldarin",
+    "entities": [{ "type": "NPC", "gameId": 12540 }],
+    "location": { "x": 1580, "y": 2980, "plane": 0 }
+  },
+  {
+    "stepNumber": 398,
+    "section": "Bank 29",
+    "instruction": "Complete Death on the Isle quest. You can't die in the fights! Pickpocket Constantinius in the main house for Chest Key. Go downstairs into the wine cellar and through the book cases and Talk to Costumer to get Costume Needle. Open the Fancy Chest hidden in the Southwest corner of the cellar. Search the South-western Fountain outside",
+    "entities": [],
+    "location": { "x": 1380, "y": 2940, "plane": 0 }
+  },
+  {
+    "stepNumber": 399,
+    "section": "Bank 29",
+    "instruction": "Use the Icon on the Statue (Ates) on the Northern side of Aldarin to unlock Pendant of ates teleport",
+    "entities": [],
+    "location": { "x": 1380, "y": 2960, "plane": 0 }
+  },
+  {
+    "stepNumber": 400,
+    "section": "Bank 29",
+    "instruction": "Minigame Teleport to Tzhaar Fight Pits. Enter Fight Caves & wait for Wave 1 to start then leave [Karamja Easy Diary]",
+    "entities": [],
+    "location": { "x": 2438, "y": 5168, "plane": 0 }
+  },
+  {
+    "stepNumber": 401,
+    "section": "Bank 29",
+    "instruction": "Bank and deposit all",
+    "entities": [],
+    "location": null
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "stepNumber": 239,
+    "section": "Bank 14",
+    "instruction": "Withdraw: Coins",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 240,
+    "section": "Bank 14",
+    "instruction": "Minigame teleport to Last Man Standing/Clan Wars. Recharge Run Energy in the Free to Play portal by entering and leaving.",
+    "entities": [],
+    "location": { "x": 3388, "y": 3161, "plane": 0 }
+  },
+  {
+    "stepNumber": 241,
+    "section": "Bank 14",
+    "instruction": "Return to Minigame teleport location and take the portal east to Castle Wars",
+    "entities": [],
+    "location": { "x": 2440, "y": 3090, "plane": 0 }
+  },
+  {
+    "stepNumber": 242,
+    "section": "Bank 14",
+    "instruction": "Head East to Yanille taking the south route to avoid Oggers",
+    "entities": [],
+    "location": { "x": 2556, "y": 3080, "plane": 0 }
+  },
+  {
+    "stepNumber": 243,
+    "section": "Bank 14",
+    "instruction": "Buy a Greenmans Ale from the Bartender in Dragon Inn [Recipe for Disaster]",
+    "entities": [{ "type": "NPC", "gameId": 739 }],
+    "location": { "x": 2556, "y": 3080, "plane": 0 }
+  },
+  {
+    "stepNumber": 244,
+    "section": "Bank 14",
+    "instruction": "Trade Aleck [Ardougne Easy Diary] and buy Butterfly Net, 10x Butterfly Jar, 3x Bird Snare, 1x Teasing Stick, 8x Box Traps",
+    "entities": [{ "type": "NPC", "gameId": 5110 }],
+    "location": { "x": 2571, "y": 3085, "plane": 0 }
+  },
+  {
+    "stepNumber": 245,
+    "section": "Bank 14",
+    "instruction": "Take Jug of Water [Monk's Friend]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1937 }],
+    "location": { "x": 2556, "y": 3080, "plane": 0 }
+  },
+  {
+    "stepNumber": 246,
+    "section": "Bank 14",
+    "instruction": "Buy 2x Rotten Tomato [Recipe for Disaster][Mournings End pt 2]",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 2518 }],
+    "location": { "x": 2556, "y": 3080, "plane": 0 }
+  },
+  {
+    "stepNumber": 247,
+    "section": "Bank 14",
+    "instruction": "Bank at Yanille and Deposit all",
+    "entities": [],
+    "location": { "x": 2613, "y": 3094, "plane": 0 }
+  }
+]

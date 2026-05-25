@@ -1,0 +1,44 @@
+[
+  {
+    "stepNumber": 549,
+    "section": "Bank 41",
+    "instruction": "Withdraw: Nothing",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 550,
+    "section": "Bank 41",
+    "instruction": "Head to the Museum, Take the Cleaning Kit and clean Uncleaned finds until you obtain: Ruby Necklace, Old Symbol, Ancient Symbol, Old Coin, Ancient Coin, Pottery (You should get 78 Kudos)",
+    "entities": [],
+    "location": { "x": 3255, "y": 3448, "plane": 0 }
+  },
+  {
+    "stepNumber": 551,
+    "section": "Bank 41",
+    "instruction": "Talk to Historian Minas to obtain 103 Kudos",
+    "entities": [{ "type": "NPC", "gameId": 5964 }],
+    "location": { "x": 3255, "y": 3448, "plane": 0 }
+  },
+  {
+    "stepNumber": 552,
+    "section": "Bank 41",
+    "instruction": "Talk to Information clerk (1)",
+    "entities": [],
+    "location": { "x": 3255, "y": 3448, "plane": 0 }
+  },
+  {
+    "stepNumber": 553,
+    "section": "Bank 41",
+    "instruction": "Talk to Haig Halen for Diary step & Bone Voyage (1,1)",
+    "entities": [{ "type": "NPC", "gameId": 5965 }],
+    "location": { "x": 3255, "y": 3448, "plane": 0 }
+  },
+  {
+    "stepNumber": 554,
+    "section": "Bank 41",
+    "instruction": "Bank at East Bank",
+    "entities": [],
+    "location": { "x": 3253, "y": 3420, "plane": 0 }
+  }
+]

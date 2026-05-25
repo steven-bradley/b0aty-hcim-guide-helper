@@ -1,0 +1,23 @@
+[
+  {
+    "stepNumber": 555,
+    "section": "Bank 42",
+    "instruction": "Withdraw: Steel Pickaxe",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 556,
+    "section": "Bank 42",
+    "instruction": "Head to Aubury and teleport to the essence mine. Mine 2 Inventories of Essence",
+    "entities": [{ "type": "NPC", "gameId": 5913 }],
+    "location": { "x": 3253, "y": 3401, "plane": 0 }
+  },
+  {
+    "stepNumber": 557,
+    "section": "Bank 42",
+    "instruction": "At this point in the guide. Complete Shield of Arrav whenever convenient.",
+    "entities": [],
+    "location": null
+  }
+]

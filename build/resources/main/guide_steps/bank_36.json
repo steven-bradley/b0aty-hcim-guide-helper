@@ -1,0 +1,114 @@
+[
+  {
+    "stepNumber": 484,
+    "section": "Bank 36",
+    "instruction": "Withdraw: Coins, Pestle & Mortar, Vial of water, Tinderbox, Cup of Tea, 2x Ropes, Sealed Letter (13 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 485,
+    "section": "Bank 36",
+    "instruction": "Empty Vial of Water",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 486,
+    "section": "Bank 36",
+    "instruction": "Continue The Digsite",
+    "entities": [{ "type": "NPC", "gameId": 5917 }],
+    "location": { "x": 3362, "y": 3337, "plane": 0 }
+  },
+  {
+    "stepNumber": 487,
+    "section": "Bank 36",
+    "instruction": "When panning for the Special Cup keep panning until you obtain an Opal",
+    "entities": [],
+    "location": { "x": 3362, "y": 3337, "plane": 0 }
+  },
+  {
+    "stepNumber": 488,
+    "section": "Bank 36",
+    "instruction": "After you obtain Specimen Jar during quest, search Specimen tray until you obtain Charcoal",
+    "entities": [],
+    "location": { "x": 3362, "y": 3337, "plane": 0 }
+  },
+  {
+    "stepNumber": 489,
+    "section": "Bank 36",
+    "instruction": "Collect Iron Pickaxe near Doug Deeping (He is in the cave) [Mournings End Pt 2]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1267 }],
+    "location": { "x": 3369, "y": 9820, "plane": 0 }
+  },
+  {
+    "stepNumber": 490,
+    "section": "Bank 36",
+    "instruction": "Complete The Digsite",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 491,
+    "section": "Bank 36",
+    "instruction": "Head South to Al Kharid. Talk to Ali Morrisane (1,2,3)",
+    "entities": [{ "type": "NPC", "gameId": 1862 }],
+    "location": { "x": 3304, "y": 3211, "plane": 0 }
+  },
+  {
+    "stepNumber": 492,
+    "section": "Bank 36",
+    "instruction": "Unlock both Rune Stores completing Sodoku (To make it easier, use the Runedoku Helper plugin on Runelite or a Google solver if you wish)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 493,
+    "section": "Bank 36",
+    "instruction": "Buy runes from Ali Morrisane by trading with him and selecting option 1, 4: 1,200 Nature Runes, 500 Law Runes, 100+ Cosmic Runes, 100 Death Runes, 1 Soul Rune [Legend's Quest]",
+    "entities": [{ "type": "NPC", "gameId": 1862 }],
+    "location": { "x": 3304, "y": 3211, "plane": 0 }
+  },
+  {
+    "stepNumber": 494,
+    "section": "Bank 36",
+    "instruction": "Bank at Emir's Arena before heading to the Mage Training Arena. Withdraw Air staff, Fire staff, Nature runes, Cosmic runes, Law runes, Water runes, and Earth runes. (Place runes + air staff at the bottom of your inventory)",
+    "entities": [],
+    "location": { "x": 3381, "y": 3268, "plane": 0 }
+  },
+  {
+    "stepNumber": 495,
+    "section": "Bank 36",
+    "instruction": "NOTE: After talking to the Entrance Guardian, you can use the Mage Training Arena minigame teleport",
+    "entities": [],
+    "location": { "x": 3363, "y": 3318, "plane": 0 }
+  },
+  {
+    "stepNumber": 496,
+    "section": "Bank 36",
+    "instruction": "Do alchemy room until 51 Magic (About 34000 coins and 1100 nature runes used)",
+    "entities": [],
+    "location": { "x": 3363, "y": 3318, "plane": 0 }
+  },
+  {
+    "stepNumber": 497,
+    "section": "Bank 36",
+    "instruction": "Get 1 Telekenetic, 1 Graveyard & 15 Enchantment points",
+    "entities": [],
+    "location": { "x": 3363, "y": 3318, "plane": 0 }
+  },
+  {
+    "stepNumber": 498,
+    "section": "Bank 36",
+    "instruction": "Buy a Mud Rune with your Pizazz points [Eyes of Glouphrie]",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 499,
+    "section": "Bank 36",
+    "instruction": "Bank at Emir's Arena bank. At this point taking Teleport Runes everywhere is almost always useful. Set your bank up with Coins in the first slot, Air Staff 2nd then Law/Fire/Earth/Water runes & always withdraw these. (Make sure placeholders are on). If Inventory is cluttered the guide will specify which teleport runes are needed.",
+    "entities": [],
+    "location": { "x": 3381, "y": 3268, "plane": 0 }
+  }
+]

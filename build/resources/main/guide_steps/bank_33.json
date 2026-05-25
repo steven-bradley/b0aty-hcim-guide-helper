@@ -1,0 +1,121 @@
+[
+  {
+    "stepNumber": 440,
+    "section": "Bank 33",
+    "instruction": "Withdraw: Coins, Air Staff, Mind Runes, Barcrawl Card, Empty Pot, Empty Sack, Bronze Bar, Clay, Bucket of Water, Key Print (9 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 441,
+    "section": "Bank 33",
+    "instruction": "Make Soft Clay",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 442,
+    "section": "Bank 33",
+    "instruction": "Start Murder Mystery",
+    "entities": [],
+    "location": { "x": 2741, "y": 3561, "plane": 0 }
+  },
+  {
+    "stepNumber": 443,
+    "section": "Bank 33",
+    "instruction": "When talking to the poison sales man: Talk to the bartender for the Barcrawl",
+    "entities": [{ "type": "NPC", "gameId": 736 }],
+    "location": { "x": 2741, "y": 3561, "plane": 0 }
+  },
+  {
+    "stepNumber": 444,
+    "section": "Bank 33",
+    "instruction": "Buy a stew from the bartender (1,3) [Kandarin Easy Diary]",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 445,
+    "section": "Bank 33",
+    "instruction": "Kill a cow at Sinclair Mansion & take cowhide during or after the quest [Lumbridge Medium Diary]",
+    "entities": [{ "type": "NPC", "gameId": 2791 }],
+    "location": { "x": 2750, "y": 3555, "plane": 0 }
+  },
+  {
+    "stepNumber": 446,
+    "section": "Bank 33",
+    "instruction": "Complete Murder Mystery",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 447,
+    "section": "Bank 33",
+    "instruction": "Head to Catherby. Collect 15 Supercompost. Deposit in Leprechaun. Withdraw 2x Plant Cure)",
+    "entities": [],
+    "location": { "x": 2814, "y": 3463, "plane": 0 }
+  },
+  {
+    "stepNumber": 448,
+    "section": "Bank 33",
+    "instruction": "Withdraw 15 Pineapples and refill compost bin",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 449,
+    "section": "Bank 33",
+    "instruction": "OPTIONAL: Use Minigames teleport to Burthorpe Games Room, go upstairs, then to Rogues' Den to buy Graceful legs (or the guide will tell you to buy them later).",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 450,
+    "section": "Bank 33",
+    "instruction": "Home teleport to Lumbridge. Head East to Al Kharid",
+    "entities": [],
+    "location": { "x": 3293, "y": 3174, "plane": 0 }
+  },
+  {
+    "stepNumber": 451,
+    "section": "Bank 33",
+    "instruction": "Complete 1x Lap of Al Kharid Agility Course [Lumbridge Medium Diary]",
+    "entities": [],
+    "location": { "x": 3273, "y": 3195, "plane": 0 }
+  },
+  {
+    "stepNumber": 452,
+    "section": "Bank 33",
+    "instruction": "Talk to Ali Morrisane and start The Feud (1,2,1,2)",
+    "entities": [{ "type": "NPC", "gameId": 1862 }],
+    "location": { "x": 3304, "y": 3211, "plane": 0 }
+  },
+  {
+    "stepNumber": 453,
+    "section": "Bank 33",
+    "instruction": "Buy Khardian Headpiece, Fake Beard & 3 Empty Pots. Make desert disguise and equip",
+    "entities": [{ "type": "NPC", "gameId": 1862 }],
+    "location": { "x": 3304, "y": 3211, "plane": 0 }
+  },
+  {
+    "stepNumber": 454,
+    "section": "Bank 33",
+    "instruction": "Buy 5x Empty Pots in the General Store",
+    "entities": [],
+    "location": { "x": 3300, "y": 3180, "plane": 0 }
+  },
+  {
+    "stepNumber": 455,
+    "section": "Bank 33",
+    "instruction": "Talk to Osman (1) [Prince Ali Rescue]",
+    "entities": [{ "type": "NPC", "gameId": 5282 }],
+    "location": { "x": 3286, "y": 3179, "plane": 0 }
+  },
+  {
+    "stepNumber": 456,
+    "section": "Bank 33",
+    "instruction": "Head to Shantay Pass",
+    "entities": [{ "type": "NPC", "gameId": 836 }],
+    "location": { "x": 3304, "y": 3124, "plane": 0 }
+  }
+]

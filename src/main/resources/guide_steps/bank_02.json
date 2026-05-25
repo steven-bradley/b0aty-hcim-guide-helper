@@ -1,0 +1,229 @@
+[
+  {
+    "stepNumber": 28,
+    "section": "Bank 2",
+    "instruction": "Withdraw: Coins, Spade, Feather & Mysterious Orb (4 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 29,
+    "section": "Bank 2",
+    "instruction": "Collect Cheese from Aggie [Witch's House]",
+    "entities": [{ "type": "NPC", "gameId": 922 }],
+    "location": { "x": 3086, "y": 3258, "plane": 0 }
+  },
+  {
+    "stepNumber": 30,
+    "section": "Bank 2",
+    "instruction": "Complete 3rd Step of X Marks the Spot",
+    "entities": [],
+    "location": { "x": 3078, "y": 3261, "plane": 0 }
+  },
+  {
+    "stepNumber": 31,
+    "section": "Bank 2",
+    "instruction": "Talk to Morgan and start Vampyre Slayer (1)",
+    "entities": [{ "type": "NPC", "gameId": 755 }],
+    "location": { "x": 3098, "y": 3268, "plane": 0 }
+  },
+  {
+    "stepNumber": 32,
+    "section": "Bank 2",
+    "instruction": "Go up the stairs and collect 4x Garlic from the cupboard. You can get multiple garlic by spamclicking the cupboard [Fishing Contest]",
+    "entities": [{ "type": "OBJECT", "gameId": 2613 }],
+    "location": { "x": 3097, "y": 3270, "plane": 1 }
+  },
+  {
+    "stepNumber": 33,
+    "section": "Bank 2",
+    "instruction": "Train Draynor Agility to 5 Agility [Falador West Wall Shortcut]",
+    "entities": [],
+    "location": { "x": 3104, "y": 3279, "plane": 0 }
+  },
+  {
+    "stepNumber": 34,
+    "section": "Bank 2",
+    "instruction": "Bank at Draynor and deposit the Garlic & cheese",
+    "entities": [],
+    "location": { "x": 3092, "y": 3245, "plane": 0 }
+  },
+  {
+    "stepNumber": 35,
+    "section": "Bank 2",
+    "instruction": "Talk to Fortunato & buy 5 wines. Hop worlds and buy 10 in total.",
+    "entities": [{ "type": "NPC", "gameId": 3536 }],
+    "location": { "x": 3084, "y": 3251, "plane": 0 }
+  },
+  {
+    "stepNumber": 36,
+    "section": "Bank 2",
+    "instruction": "Start A Porcine of Interest",
+    "entities": [],
+    "location": { "x": 3088, "y": 3253, "plane": 0 }
+  },
+  {
+    "stepNumber": 37,
+    "section": "Bank 2",
+    "instruction": "Complete 4th Step of X Marks the Spot",
+    "entities": [],
+    "location": { "x": 3077, "y": 3260, "plane": 0 }
+  },
+  {
+    "stepNumber": 38,
+    "section": "Bank 2",
+    "instruction": "Head West to Port Sarim and talk to Veos to complete X Marks The Spot.",
+    "entities": [{ "type": "NPC", "gameId": 8484 }],
+    "location": { "x": 3054, "y": 3245, "plane": 0 }
+  },
+  {
+    "stepNumber": 39,
+    "section": "Bank 2",
+    "instruction": "Destroy the lamp. You can collect this later as you can't bank it.",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 40,
+    "section": "Bank 2",
+    "instruction": "Travel to Port Piscarilius",
+    "entities": [{ "type": "NPC", "gameId": 8484 }],
+    "location": { "x": 1824, "y": 3691, "plane": 0 }
+  },
+  {
+    "stepNumber": 41,
+    "section": "Bank 2",
+    "instruction": "Talk to Veos (4,1) [Client of Kourend]",
+    "entities": [{ "type": "NPC", "gameId": 10724 }],
+    "location": { "x": 1824, "y": 3691, "plane": 0 }
+  },
+  {
+    "stepNumber": 42,
+    "section": "Bank 2",
+    "instruction": "Take Minecart to Shayzien East",
+    "entities": [],
+    "location": { "x": 1808, "y": 3679, "plane": 0 }
+  },
+  {
+    "stepNumber": 43,
+    "section": "Bank 2",
+    "instruction": "Open Minimap & follow the path South-West to Shayzien",
+    "entities": [],
+    "location": { "x": 1516, "y": 3631, "plane": 0 }
+  },
+  {
+    "stepNumber": 44,
+    "section": "Bank 2",
+    "instruction": "Take the Beer",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1917 }],
+    "location": { "x": 1516, "y": 3631, "plane": 0 }
+  },
+  {
+    "stepNumber": 45,
+    "section": "Bank 2",
+    "instruction": "Use your feather on the enchanted scroll in your inventory",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 46,
+    "section": "Bank 2",
+    "instruction": "Talk to Jennifer_(Shayzien) for Client of Kourend (3,2)",
+    "entities": [{ "type": "NPC", "gameId": 8015 }],
+    "location": { "x": 1534, "y": 3612, "plane": 0 }
+  },
+  {
+    "stepNumber": 47,
+    "section": "Bank 2",
+    "instruction": "Take Tinderbox",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 590 }],
+    "location": { "x": 1516, "y": 3631, "plane": 0 }
+  },
+  {
+    "stepNumber": 48,
+    "section": "Bank 2",
+    "instruction": "Take Wizard Hat & Orange Dye [Shadow of the Storm, Goblin Diplomacy]",
+    "entities": [
+      { "type": "GROUND_ITEM", "gameId": 579 },
+      { "type": "GROUND_ITEM", "gameId": 1769 }
+    ],
+    "location": { "x": 1516, "y": 3631, "plane": 0 }
+  },
+  {
+    "stepNumber": 49,
+    "section": "Bank 2",
+    "instruction": "Buy Chefs Hat [Cooking Guild]",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1949 }],
+    "location": { "x": 1519, "y": 3626, "plane": 0 }
+  },
+  {
+    "stepNumber": 50,
+    "section": "Bank 2",
+    "instruction": "Home teleport to Lumbridge",
+    "entities": [],
+    "location": { "x": 3222, "y": 3218, "plane": 0 }
+  },
+  {
+    "stepNumber": 51,
+    "section": "Bank 2",
+    "instruction": "Talk to Bob and buy a Steel Axe",
+    "entities": [{ "type": "NPC", "gameId": 519 }],
+    "location": { "x": 3231, "y": 3203, "plane": 0 }
+  },
+  {
+    "stepNumber": 52,
+    "section": "Bank 2",
+    "instruction": "Talk to Restless Ghost (1)",
+    "entities": [{ "type": "NPC", "gameId": 2816 }],
+    "location": { "x": 3250, "y": 3195, "plane": 0 }
+  },
+  {
+    "stepNumber": 53,
+    "section": "Bank 2",
+    "instruction": "Talk to Count Check and be teleported to Stronghold of Security (3,1)",
+    "entities": [{ "type": "NPC", "gameId": 4375 }],
+    "location": { "x": 3225, "y": 3240, "plane": 0 }
+  },
+  {
+    "stepNumber": 54,
+    "section": "Bank 2",
+    "instruction": "Complete 3 Floors of Stronghold of Security. On Floor 3, Spider max is 7 so if you take 3 or more damage, drink a wine before going through the door to avoid being stacked. Take the east doors. Catablepon Max is 9 so drink on any damage. Once you have 10,000GP from Floor 3, leave via the ropes",
+    "entities": [],
+    "location": { "x": 1859, "y": 5243, "plane": 0 }
+  },
+  {
+    "stepNumber": 55,
+    "section": "Bank 2",
+    "instruction": "Collect 3x Beer inside the Longhall",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1917 }],
+    "location": { "x": 3223, "y": 3399, "plane": 0 }
+  },
+  {
+    "stepNumber": 56,
+    "section": "Bank 2",
+    "instruction": "Collect a Cooked Meat [Mournings End Pt 2]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 2142 }],
+    "location": { "x": 3223, "y": 3397, "plane": 0 }
+  },
+  {
+    "stepNumber": 57,
+    "section": "Bank 2",
+    "instruction": "Head east and Talk to Gertude (1) [Gertrudes Cat]",
+    "entities": [{ "type": "NPC", "gameId": 7723 }],
+    "location": { "x": 3151, "y": 3413, "plane": 0 }
+  },
+  {
+    "stepNumber": 58,
+    "section": "Bank 2",
+    "instruction": "Collect a Doogle Leaf south of Gertrude",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1573 }],
+    "location": { "x": 3153, "y": 3409, "plane": 0 }
+  },
+  {
+    "stepNumber": 59,
+    "section": "Bank 2",
+    "instruction": "Bank at Varrock West Bank and deposit all",
+    "entities": [],
+    "location": { "x": 3185, "y": 3436, "plane": 0 }
+  }
+]

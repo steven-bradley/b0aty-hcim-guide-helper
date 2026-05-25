@@ -1,0 +1,93 @@
+[
+  {
+    "stepNumber": 402,
+    "section": "Bank 30",
+    "instruction": "Withdraw: Coins, Chronicle, Barcrawl Card, all Wines",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 403,
+    "section": "Bank 30",
+    "instruction": "Leave the Tzhaar cave. Quickly climb the Rope",
+    "entities": [],
+    "location": { "x": 2862, "y": 3203, "plane": 0 }
+  },
+  {
+    "stepNumber": 404,
+    "section": "Bank 30",
+    "instruction": "Complete the Barcrawl at Musa Point",
+    "entities": [{ "type": "NPC", "gameId": 568 }],
+    "location": { "x": 2927, "y": 3145, "plane": 0 }
+  },
+  {
+    "stepNumber": 405,
+    "section": "Bank 30",
+    "instruction": "Head West to Brimhaven Agility Arena. Pay to enter the Agility Arena",
+    "entities": [{ "type": "NPC", "gameId": 437 }],
+    "location": { "x": 2809, "y": 3193, "plane": 0 }
+  },
+  {
+    "stepNumber": 406,
+    "section": "Bank 30",
+    "instruction": "Cross the rope swing and Pillars South",
+    "entities": [],
+    "location": { "x": 2805, "y": 9589, "plane": 3 }
+  },
+  {
+    "stepNumber": 407,
+    "section": "Bank 30",
+    "instruction": "Jump over the Floor Spikes indefinitely. Tag close by Pillars that are within 3 1-39 Obstacles. NOTE: If no arrow is showing up hop worlds. OPTIONAL: Install the Detached Camera plugin on Runelite. It lets you use mouse keys to jump over Floor Spikes.",
+    "entities": [],
+    "location": { "x": 2805, "y": 9589, "plane": 3 }
+  },
+  {
+    "stepNumber": 408,
+    "section": "Bank 30",
+    "instruction": "Bank at Ardy South bank for more wines when needed. Keep health low to take less damage. At level 55 you can just chase tickets rather than spike jump. Stay until level 60 (If you want a break you can go to the Colossal Wyrm Agility Course at 50 but it is slower)",
+    "entities": [],
+    "location": { "x": 2655, "y": 3283, "plane": 0 }
+  },
+  {
+    "stepNumber": 409,
+    "section": "Bank 30",
+    "instruction": "OPTIONAL: Get Graceful if you want but it's not that good. You should get a couple pieces later on the Seers course",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 410,
+    "section": "Bank 30",
+    "instruction": "Buy 2x Toadflax from the agility arena shop [Tai Bwo Wannai Trio]",
+    "entities": [],
+    "location": { "x": 2805, "y": 9589, "plane": 3 }
+  },
+  {
+    "stepNumber": 411,
+    "section": "Bank 30",
+    "instruction": "Charter to Catherby",
+    "entities": [],
+    "location": { "x": 2808, "y": 3441, "plane": 0 }
+  },
+  {
+    "stepNumber": 412,
+    "section": "Bank 30",
+    "instruction": "Trade Candle maker & buy candle [Kandarin Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 562 }],
+    "location": { "x": 2799, "y": 3440, "plane": 0 }
+  },
+  {
+    "stepNumber": 413,
+    "section": "Bank 30",
+    "instruction": "Buy a pack of empty buckets from Arhein",
+    "entities": [{ "type": "NPC", "gameId": 563 }],
+    "location": { "x": 2804, "y": 3432, "plane": 0 }
+  },
+  {
+    "stepNumber": 414,
+    "section": "Bank 30",
+    "instruction": "Bank all At Catherby bank. OPTIONAL: Buy your 100 Soda Ash/Sand if haven't yet",
+    "entities": [],
+    "location": { "x": 2808, "y": 3441, "plane": 0 }
+  }
+]

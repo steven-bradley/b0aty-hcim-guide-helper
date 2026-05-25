@@ -1,0 +1,86 @@
+[
+  {
+    "stepNumber": 227,
+    "section": "Bank 13",
+    "instruction": "Withdraw: Coins, Mind Runes, 50 Feathers, Hammer, Knife (5 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 228,
+    "section": "Bank 13",
+    "instruction": "Buy Desert Robes & wear them",
+    "entities": [{ "type": "NPC", "gameId": 836 }],
+    "location": { "x": 3304, "y": 3124, "plane": 0 }
+  },
+  {
+    "stepNumber": 229,
+    "section": "Bank 13",
+    "instruction": "Buy 10x Bronze Bars & 10x Ropes",
+    "entities": [{ "type": "NPC", "gameId": 836 }],
+    "location": { "x": 3304, "y": 3124, "plane": 0 }
+  },
+  {
+    "stepNumber": 230,
+    "section": "Bank 13",
+    "instruction": "Bank 7 Bronze Bars [keep 3 for Tourist Trap] & 10 Ropes",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 231,
+    "section": "Bank 13",
+    "instruction": "Buy 3x Buckets of Water & deposit",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 232,
+    "section": "Bank 13",
+    "instruction": "Withdraw 12 Wines",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 233,
+    "section": "Bank 13",
+    "instruction": "Buy 1x Waterskin (4)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 234,
+    "section": "Bank 13",
+    "instruction": "Start Tourist Trap. You need to safespot the Mercenary Captain on his soldiers. Talk to the soldier to hold him in place after you body block him",
+    "entities": [{ "type": "NPC", "gameId": 830 }],
+    "location": { "x": 3272, "y": 3029, "plane": 0 }
+  },
+  {
+    "stepNumber": 235,
+    "section": "Bank 13",
+    "instruction": "Take his bones [Demon Slayer]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 526 }],
+    "location": { "x": 3272, "y": 3029, "plane": 0 }
+  },
+  {
+    "stepNumber": 236,
+    "section": "Bank 13",
+    "instruction": "Complete Tourist Trap. Use Rewards on Agility",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 237,
+    "section": "Bank 13",
+    "instruction": "Buy atleast 1x Bronze Bars [Mournings End Pt 2]",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 238,
+    "section": "Bank 13",
+    "instruction": "Bank at Shantay pass and deposit all",
+    "entities": [],
+    "location": { "x": 3304, "y": 3124, "plane": 0 }
+  }
+]

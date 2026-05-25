@@ -1,0 +1,107 @@
+[
+  {
+    "stepNumber": 359,
+    "section": "Bank 28",
+    "instruction": "Withdraw: barcrawl Card, Coins, Enchanted Scroll, Enchanted Quill (4 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 360,
+    "section": "Bank 28",
+    "instruction": "Head into the Port Sarim Bar for the Barcrawl (Bartender_(Rusty_Anchor_Inn))",
+    "entities": [{ "type": "NPC", "gameId": 733 }],
+    "location": { "x": 3045, "y": 3257, "plane": 0 }
+  },
+  {
+    "stepNumber": 361,
+    "section": "Bank 28",
+    "instruction": "Head to Veos and travel to Port Piscarilius. You will receive your X Marks the Spot Lamp, use on Herblore",
+    "entities": [{ "type": "NPC", "gameId": 10724 }],
+    "location": { "x": 1824, "y": 3691, "plane": 0 }
+  },
+  {
+    "stepNumber": 362,
+    "section": "Bank 28",
+    "instruction": "OPTIONAL: Travel to Lands end if you haven't got your 100 Soda Ash/Sand",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 363,
+    "section": "Bank 28",
+    "instruction": "Head North to the Piscarillius General Store, talk to Leenz(3,2)",
+    "entities": [{ "type": "NPC", "gameId": 8017 }],
+    "location": { "x": 1807, "y": 3726, "plane": 0 }
+  },
+  {
+    "stepNumber": 364,
+    "section": "Bank 28",
+    "instruction": "Head South then Directly East along the pier to reach the Food Store; Buy Raw Sea Bass, Swordfish, 3x Cod & 15 Sardines while here for your Kitten",
+    "entities": [],
+    "location": { "x": 1847, "y": 3699, "plane": 0 }
+  },
+  {
+    "stepNumber": 365,
+    "section": "Bank 28",
+    "instruction": "Head west to the Minecart and travel to Lovakengj. Bank the fish",
+    "entities": [],
+    "location": { "x": 1519, "y": 3733, "plane": 0 }
+  },
+  {
+    "stepNumber": 366,
+    "section": "Bank 28",
+    "instruction": "Head East and slightly North to the General Store, talk to Munty (4,2)",
+    "entities": [{ "type": "NPC", "gameId": 8016 }],
+    "location": { "x": 1540, "y": 3745, "plane": 0 }
+  },
+  {
+    "stepNumber": 367,
+    "section": "Bank 28",
+    "instruction": "Buy an inventory of Balls of Wool & bank them West",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1759 }],
+    "location": null
+  },
+  {
+    "stepNumber": 368,
+    "section": "Bank 28",
+    "instruction": "Take Minecart to Kingstown",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 369,
+    "section": "Bank 28",
+    "instruction": "Head directly North on the path to Arceuus general Store and talk to Regath (4,2) [Client of Kourend]",
+    "entities": [{ "type": "NPC", "gameId": 8018 }],
+    "location": { "x": 1720, "y": 3724, "plane": 0 }
+  },
+  {
+    "stepNumber": 370,
+    "section": "Bank 28",
+    "instruction": "Walk to the Hosidius General Store, talk to Horace (3,2)",
+    "entities": [{ "type": "NPC", "gameId": 8019 }],
+    "location": { "x": 1774, "y": 3590, "plane": 0 }
+  },
+  {
+    "stepNumber": 371,
+    "section": "Bank 28",
+    "instruction": "Bank West side of the Square and deposit everything",
+    "entities": [],
+    "location": { "x": 1748, "y": 3599, "plane": 0 }
+  },
+  {
+    "stepNumber": 372,
+    "section": "Bank 28",
+    "instruction": "Steal from the Fruit stall [Kourend Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 28823 }],
+    "location": { "x": 1764, "y": 3597, "plane": 0 }
+  },
+  {
+    "stepNumber": 373,
+    "section": "Bank 28",
+    "instruction": "Head East & thieve from the Hosidius fruit stall until 34512 Thieving Experience. Bank 5x Redberries, all Golovanova's + Strange fruit and 1x Jangerberries [Fairytale Part I, possible item for Malignius Mortifer]. Run between both stalls as it is faster. Once you are 0 energy, recharge at 1 stall.",
+    "entities": [{ "type": "OBJECT", "gameId": 28823 }],
+    "location": { "x": 1764, "y": 3597, "plane": 0 }
+  }
+]

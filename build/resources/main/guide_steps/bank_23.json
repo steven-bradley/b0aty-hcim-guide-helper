@@ -1,0 +1,30 @@
+[
+  {
+    "stepNumber": 320,
+    "section": "Bank 23",
+    "instruction": "Withdraw: 13x Soda Ash & 13x Bucket of sand",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 321,
+    "section": "Bank 23",
+    "instruction": "Complete Sheep Herder",
+    "entities": [{ "type": "NPC", "gameId": 3230 }],
+    "location": { "x": 2612, "y": 3299, "plane": 0 }
+  },
+  {
+    "stepNumber": 322,
+    "section": "Bank 23",
+    "instruction": "Make 13 Molten Glass on Furnace West of Chapel [Observatory Quest]",
+    "entities": [{ "type": "OBJECT", "gameId": 16469 }],
+    "location": { "x": 2612, "y": 3305, "plane": 0 }
+  },
+  {
+    "stepNumber": 323,
+    "section": "Bank 23",
+    "instruction": "Bank at Ardougne North Bank. Deposit everything",
+    "entities": [],
+    "location": { "x": 2615, "y": 3332, "plane": 0 }
+  }
+]

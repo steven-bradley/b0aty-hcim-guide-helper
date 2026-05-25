@@ -1,0 +1,51 @@
+[
+  {
+    "stepNumber": 346,
+    "section": "Bank 26",
+    "instruction": "Withdraw: 20x Ball of Wool, Mind Runes, Ghosts Skull, 2x Wine (24 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 347,
+    "section": "Bank 26",
+    "instruction": "Home teleport to Lumbridge",
+    "entities": [],
+    "location": { "x": 3222, "y": 3218, "plane": 0 }
+  },
+  {
+    "stepNumber": 348,
+    "section": "Bank 26",
+    "instruction": "Complete Restless Ghost",
+    "entities": [{ "type": "NPC", "gameId": 2812 }],
+    "location": { "x": 3243, "y": 3210, "plane": 0 }
+  },
+  {
+    "stepNumber": 349,
+    "section": "Bank 26",
+    "instruction": "Complete Sheep Shearer (1,1)",
+    "entities": [{ "type": "NPC", "gameId": 758 }],
+    "location": { "x": 3190, "y": 3273, "plane": 0 }
+  },
+  {
+    "stepNumber": 350,
+    "section": "Bank 26",
+    "instruction": "Collect an egg",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1944 }],
+    "location": { "x": 3235, "y": 3295, "plane": 0 }
+  },
+  {
+    "stepNumber": 351,
+    "section": "Bank 26",
+    "instruction": "Kill a Zombie in Draynor Sewers. Take bones. [Lumbridge Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 76 }],
+    "location": { "x": 3118, "y": 9643, "plane": 0 }
+  },
+  {
+    "stepNumber": 352,
+    "section": "Bank 26",
+    "instruction": "Bank at Draynor",
+    "entities": [],
+    "location": { "x": 3092, "y": 3245, "plane": 0 }
+  }
+]

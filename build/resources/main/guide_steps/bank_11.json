@@ -1,0 +1,121 @@
+[
+  {
+    "stepNumber": 190,
+    "section": "Bank 11",
+    "instruction": "Withdraw: Mind Runes, Coins, Raw Sardine, Doogle Leaves, Bucket of Milk, Snape Grass, Rope (7 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 191,
+    "section": "Bank 11",
+    "instruction": "Head North East & continue Gertrudes Cat",
+    "entities": [{ "type": "NPC", "gameId": 7723 }],
+    "location": { "x": 3151, "y": 3413, "plane": 0 }
+  },
+  {
+    "stepNumber": 192,
+    "section": "Bank 11",
+    "instruction": "Chronicle and complete Gertrudes Cat",
+    "entities": [{ "type": "NPC", "gameId": 7723 }],
+    "location": { "x": 3151, "y": 3413, "plane": 0 }
+  },
+  {
+    "stepNumber": 193,
+    "section": "Bank 11",
+    "instruction": "Raise Kittens as much as you want. They will be worth 200 Death Runes later which is very useful. IF YOU ARE NOT DOING LMS/ SOUL WARS 1+1 OR EARLY REVENANTS FOR MONEY: IT IS RECOMMENDED TO RAISE CATS FOREVER.",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 194,
+    "section": "Bank 11",
+    "instruction": "Buy 2x Bronze Med Helm in Barbarian Village [Black Knights Fortress][Mournings End Pt 2][Kings Ransom]",
+    "entities": [{ "type": "NPC", "gameId": 1860 }],
+    "location": { "x": 3230, "y": 3428, "plane": 0 }
+  },
+  {
+    "stepNumber": 195,
+    "section": "Bank 11",
+    "instruction": "Head to Edgeville. Here I would recommend Private off and hop to avoid being bagged up.",
+    "entities": [],
+    "location": { "x": 3097, "y": 3468, "plane": 0 }
+  },
+  {
+    "stepNumber": 196,
+    "section": "Bank 11",
+    "instruction": "Talk to Zamorak Mage in Wilderness [Enter the Abyss]",
+    "entities": [{ "type": "NPC", "gameId": 2581 }],
+    "location": { "x": 3102, "y": 3557, "plane": 0 }
+  },
+  {
+    "stepNumber": 197,
+    "section": "Bank 11",
+    "instruction": "Take the lever from Edgeville to Ardougne, then back to the Wilderness, and return to Ardougne for the Wilderness & Ardougne Diary.",
+    "entities": [{ "type": "OBJECT", "gameId": 1814 }],
+    "location": { "x": 3090, "y": 3475, "plane": 0 }
+  },
+  {
+    "stepNumber": 198,
+    "section": "Bank 11",
+    "instruction": "Head to the Grand Tree. Buy Dwellberries, 2x Bucket of Milk, 2x Chocolate Dust [Plague City]",
+    "entities": [{ "type": "NPC", "gameId": 1432 }],
+    "location": { "x": 2439, "y": 3516, "plane": 1 }
+  },
+  {
+    "stepNumber": 199,
+    "section": "Bank 11",
+    "instruction": "Return to Ardougne & complete Plague City (note that once Biohazard is started you will not have access to West Ardi to turn in cats until it is completed)",
+    "entities": [{ "type": "NPC", "gameId": 3216 }],
+    "location": { "x": 2568, "y": 3335, "plane": 0 }
+  },
+  {
+    "stepNumber": 200,
+    "section": "Bank 11",
+    "instruction": "Read the Ardougne Teleport Scroll in your inventory (x0Lurk)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 201,
+    "section": "Bank 11",
+    "instruction": "Start Biohazard until you get the samples",
+    "entities": [{ "type": "NPC", "gameId": 3216 }],
+    "location": { "x": 2568, "y": 3335, "plane": 0 }
+  },
+  {
+    "stepNumber": 202,
+    "section": "Bank 11",
+    "instruction": "Take 2 Rotten Apples [Mournings End Pt 1]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1984 }],
+    "location": { "x": 2573, "y": 3332, "plane": 0 }
+  },
+  {
+    "stepNumber": 203,
+    "section": "Bank 11",
+    "instruction": "Take 6 Pigeon Cages [One Small Favour]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 3838 }],
+    "location": { "x": 2618, "y": 3325, "plane": 0 }
+  },
+  {
+    "stepNumber": 204,
+    "section": "Bank 11",
+    "instruction": "Fill your inventory with Balls of wool when passing the general store",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1759 }],
+    "location": { "x": 2614, "y": 3295, "plane": 0 }
+  },
+  {
+    "stepNumber": 205,
+    "section": "Bank 11",
+    "instruction": "Check Probita for Pets [Ardougne Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 6526 }],
+    "location": { "x": 2621, "y": 3293, "plane": 0 }
+  },
+  {
+    "stepNumber": 206,
+    "section": "Bank 11",
+    "instruction": "Bank at Ardougne South Bank",
+    "entities": [],
+    "location": { "x": 2655, "y": 3283, "plane": 0 }
+  }
+]

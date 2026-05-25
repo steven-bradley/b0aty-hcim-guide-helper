@@ -1,0 +1,86 @@
+[
+  {
+    "stepNumber": 506,
+    "section": "Bank 38",
+    "instruction": "Withdraw: Law Runes, Water Runes, Death Runes, Air Staff, Coins, 6x Wine, 3x Bones, Small Fishing Net (15 Inventory Spaces)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 507,
+    "section": "Bank 38",
+    "instruction": "Take the boat to Brimhaven & head south to Jiminua's Jungle Store",
+    "entities": [{ "type": "NPC", "gameId": 560 }],
+    "location": { "x": 2781, "y": 3120, "plane": 0 }
+  },
+  {
+    "stepNumber": 508,
+    "section": "Bank 38",
+    "instruction": "Buy Spade, Tinderbox, Candle, 2x Charcoal, Rope, Chisel, Bronze Bar, Hammer, 2x Antipoison (3)",
+    "entities": [{ "type": "NPC", "gameId": 560 }],
+    "location": { "x": 2781, "y": 3120, "plane": 0 }
+  },
+  {
+    "stepNumber": 509,
+    "section": "Bank 38",
+    "instruction": "Decant Antipoison [Family Crest Quest]",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 510,
+    "section": "Bank 38",
+    "instruction": "Light Candle & Drop Tinderbox",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 511,
+    "section": "Bank 38",
+    "instruction": "Make Bronze Wire [Shilo Village](An Anvil is South East drop hammer)",
+    "entities": [{ "type": "OBJECT", "gameId": 2097 }],
+    "location": { "x": 2781, "y": 3120, "plane": 0 }
+  },
+  {
+    "stepNumber": 512,
+    "section": "Bank 38",
+    "instruction": "Start the Jungle Potion quest",
+    "entities": [{ "type": "NPC", "gameId": 1801 }],
+    "location": { "x": 2809, "y": 3085, "plane": 0 }
+  },
+  {
+    "stepNumber": 513,
+    "section": "Bank 38",
+    "instruction": "Collect 2x Snake Weed & Ardrigal [Legend's Quest]",
+    "entities": [],
+    "location": { "x": 2809, "y": 3085, "plane": 0 }
+  },
+  {
+    "stepNumber": 514,
+    "section": "Bank 38",
+    "instruction": "Kill a Jogre while obtaining a Rogue's Purse [Karamja Easy Diary]. Take Jogre Bones [Tai Bwo Wannai Trio]",
+    "entities": [{ "type": "NPC", "gameId": 2095 }],
+    "location": { "x": 2830, "y": 3060, "plane": 0 }
+  },
+  {
+    "stepNumber": 515,
+    "section": "Bank 38",
+    "instruction": "Start Tai Bwo Wannai Trio (3,3/3,1)",
+    "entities": [{ "type": "NPC", "gameId": 1803 }],
+    "location": { "x": 2803, "y": 3085, "plane": 0 }
+  },
+  {
+    "stepNumber": 516,
+    "section": "Bank 38",
+    "instruction": "Start Shilo Village. Don't enter the tunnels with less than 3 wines and note that teles are unavailable briefly when searching for items. Teleport to Ardy after getting the corpse and restock wines. When crossing the bridge to Cairn Isle, open the House menu to prevent failing to cross the bridge. Be a bit careful with low defence & fairly low HP here. Boss can be safe spotted.",
+    "entities": [{ "type": "NPC", "gameId": 510 }],
+    "location": { "x": 2803, "y": 2992, "plane": 0 }
+  },
+  {
+    "stepNumber": 517,
+    "section": "Bank 38",
+    "instruction": "Bank at Shilo Village",
+    "entities": [],
+    "location": { "x": 2852, "y": 2955, "plane": 0 }
+  }
+]

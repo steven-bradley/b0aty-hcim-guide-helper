@@ -1,0 +1,72 @@
+[
+  {
+    "stepNumber": 256,
+    "section": "Bank 17",
+    "instruction": "Withdraw: Mind Runes, Coins, 1x Logs, Jug of Water, 5x Wines, (9 Inventory spots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 257,
+    "section": "Bank 17",
+    "instruction": "Collect 2 planks",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 960 }],
+    "location": { "x": 2657, "y": 3150, "plane": 0 }
+  },
+  {
+    "stepNumber": 258,
+    "section": "Bank 17",
+    "instruction": "Complete Fight Arena. Safe spot everything over the closest Corpse. Quick escape on the door when fighting General Khazard",
+    "entities": [{ "type": "NPC", "gameId": 260 }],
+    "location": { "x": 2585, "y": 3133, "plane": 0 }
+  },
+  {
+    "stepNumber": 259,
+    "section": "Bank 17",
+    "instruction": "Complete Monks Friend",
+    "entities": [{ "type": "NPC", "gameId": 281 }],
+    "location": { "x": 2606, "y": 3209, "plane": 0 }
+  },
+  {
+    "stepNumber": 260,
+    "section": "Bank 17",
+    "instruction": "Collect Rat Poison beneath Clock Tower [Rat Catchers]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1531 }],
+    "location": { "x": 2575, "y": 9655, "plane": 0 }
+  },
+  {
+    "stepNumber": 261,
+    "section": "Bank 17",
+    "instruction": "Activate Thick Skin prayer & Head North through the Ardy Zoo",
+    "entities": [],
+    "location": { "x": 2612, "y": 3299, "plane": 0 }
+  },
+  {
+    "stepNumber": 262,
+    "section": "Bank 17",
+    "instruction": "Head North to the church then start Sheep Herder (1,1) Wear Plague outfit",
+    "entities": [{ "type": "NPC", "gameId": 3230 }],
+    "location": { "x": 2612, "y": 3299, "plane": 0 }
+  },
+  {
+    "stepNumber": 263,
+    "section": "Bank 17",
+    "instruction": "Pray at Altar [Ardougne Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 409 }],
+    "location": { "x": 2616, "y": 3307, "plane": 0 }
+  },
+  {
+    "stepNumber": 264,
+    "section": "Bank 17",
+    "instruction": "Buy Full Inventory of Balls of wool from the general store",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1759 }],
+    "location": { "x": 2614, "y": 3295, "plane": 0 }
+  },
+  {
+    "stepNumber": 265,
+    "section": "Bank 17",
+    "instruction": "Bank at Ardougne North bank. Deposit all.",
+    "entities": [],
+    "location": { "x": 2615, "y": 3332, "plane": 0 }
+  }
+]

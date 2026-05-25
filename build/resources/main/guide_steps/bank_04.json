@@ -1,0 +1,138 @@
+[
+  {
+    "stepNumber": 85,
+    "section": "Bank 4",
+    "instruction": "Withdraw: Coins, Saw, Hammer, Knife, Bronze Axe, Research Package, Tinderbox (7 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 86,
+    "section": "Bank 4",
+    "instruction": "Talk to Aubury to continue Rune Mysteries (2)",
+    "entities": [{ "type": "NPC", "gameId": 5913 }],
+    "location": { "x": 3253, "y": 3401, "plane": 0 }
+  },
+  {
+    "stepNumber": 87,
+    "section": "Bank 4",
+    "instruction": "Light both logs in the house right next to the rune shop.",
+    "entities": [],
+    "location": { "x": 3249, "y": 3398, "plane": 0 }
+  },
+  {
+    "stepNumber": 88,
+    "section": "Bank 4",
+    "instruction": "Destroy all the furniture in the house",
+    "entities": [],
+    "location": { "x": 3249, "y": 3398, "plane": 0 }
+  },
+  {
+    "stepNumber": 89,
+    "section": "Bank 4",
+    "instruction": "Talk to Old Man Yarlo to continue Daddy's Home (2)",
+    "entities": [{ "type": "NPC", "gameId": 10582 }],
+    "location": { "x": 3241, "y": 3395, "plane": 0 }
+  },
+  {
+    "stepNumber": 90,
+    "section": "Bank 4",
+    "instruction": "Take 2x Logs & 2x ashes after cutscene",
+    "entities": [
+      { "type": "GROUND_ITEM", "gameId": 1511 },
+      { "type": "GROUND_ITEM", "gameId": 592 }
+    ],
+    "location": { "x": 3249, "y": 3398, "plane": 0 }
+  },
+  {
+    "stepNumber": 91,
+    "section": "Bank 4",
+    "instruction": "Search crates for 3x Waxwood log",
+    "entities": [],
+    "location": { "x": 3249, "y": 3398, "plane": 0 }
+  },
+  {
+    "stepNumber": 92,
+    "section": "Bank 4",
+    "instruction": "Bank the ashes",
+    "entities": [],
+    "location": { "x": 3253, "y": 3420, "plane": 0 }
+  },
+  {
+    "stepNumber": 93,
+    "section": "Bank 4",
+    "instruction": "Head North-East to the Lumberyard. Cut the Dying tree [Varrock Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 24168 }],
+    "location": { "x": 3310, "y": 3492, "plane": 0 }
+  },
+  {
+    "stepNumber": 94,
+    "section": "Bank 4",
+    "instruction": "Collect the Logs & fletch 2,100 Arrowshafts (hop between 2 worlds)",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1511 }],
+    "location": { "x": 3310, "y": 3492, "plane": 0 }
+  },
+  {
+    "stepNumber": 95,
+    "section": "Bank 4",
+    "instruction": "Collect 11 Logs & make 10 into Planks. Make the 3 Waxwood Planks.",
+    "entities": [{ "type": "NPC", "gameId": 4250 }],
+    "location": { "x": 3302, "y": 3492, "plane": 0 }
+  },
+  {
+    "stepNumber": 96,
+    "section": "Bank 4",
+    "instruction": "Buy 5x Bolts of Cloth & 100 Steel Nails",
+    "entities": [{ "type": "NPC", "gameId": 4250 }],
+    "location": { "x": 3302, "y": 3492, "plane": 0 }
+  },
+  {
+    "stepNumber": 97,
+    "section": "Bank 4",
+    "instruction": "Return to Old Man Yarlo & continue Daddy's Home",
+    "entities": [{ "type": "NPC", "gameId": 10582 }],
+    "location": { "x": 3241, "y": 3395, "plane": 0 }
+  },
+  {
+    "stepNumber": 98,
+    "section": "Bank 4",
+    "instruction": "Light 1 log & take the 1x log",
+    "entities": [],
+    "location": { "x": 3249, "y": 3398, "plane": 0 }
+  },
+  {
+    "stepNumber": 99,
+    "section": "Bank 4",
+    "instruction": "Collect Ashes",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 592 }],
+    "location": { "x": 3249, "y": 3398, "plane": 0 }
+  },
+  {
+    "stepNumber": 100,
+    "section": "Bank 4",
+    "instruction": "Trade Aubury and buy 1x Fire/Air/Earth Pack, 2x Water Pack, 3x Mind Pack",
+    "entities": [{ "type": "NPC", "gameId": 5913 }],
+    "location": { "x": 3253, "y": 3401, "plane": 0 }
+  },
+  {
+    "stepNumber": 101,
+    "section": "Bank 4",
+    "instruction": "Complete Daddy's home at Marlo (1)",
+    "entities": [{ "type": "NPC", "gameId": 10583 }],
+    "location": { "x": 3240, "y": 3471, "plane": 0 }
+  },
+  {
+    "stepNumber": 102,
+    "section": "Bank 4",
+    "instruction": "Open the crate",
+    "entities": [],
+    "location": { "x": 3240, "y": 3471, "plane": 0 }
+  },
+  {
+    "stepNumber": 103,
+    "section": "Bank 4",
+    "instruction": "Bank at Varrock East bank",
+    "entities": [],
+    "location": { "x": 3253, "y": 3420, "plane": 0 }
+  }
+]

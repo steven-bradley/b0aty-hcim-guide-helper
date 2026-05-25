@@ -1,0 +1,212 @@
+[
+  {
+    "stepNumber": 142,
+    "section": "Bank 9",
+    "instruction": "Withdraw: Coins, Mind Runes, Small Fishing Net, Onion, Pickaxe, 454 Arrowshafts, 2x Wines (8 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 143,
+    "section": "Bank 9",
+    "instruction": "Buy Chronicle & 10 Teleport cards from Diango",
+    "entities": [{ "type": "NPC", "gameId": 970 }],
+    "location": { "x": 3079, "y": 3250, "plane": 0 }
+  },
+  {
+    "stepNumber": 144,
+    "section": "Bank 9",
+    "instruction": "Use Pages on Chronicle and wield",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 145,
+    "section": "Bank 9",
+    "instruction": "Head West and talk to Redbeard Frank to start Pirate's Treasure (1,1)",
+    "entities": [{ "type": "NPC", "gameId": 918 }],
+    "location": { "x": 3053, "y": 3251, "plane": 0 }
+  },
+  {
+    "stepNumber": 146,
+    "section": "Bank 9",
+    "instruction": "Head South-West and buy a Harpoon, 50 Bait & 10 Feather packs. Take Apron from the wall & wear.",
+    "entities": [{ "type": "NPC", "gameId": 558 }],
+    "location": { "x": 3014, "y": 3224, "plane": 0 }
+  },
+  {
+    "stepNumber": 147,
+    "section": "Bank 9",
+    "instruction": "Make 454 Headless Arrows",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 53 }],
+    "location": null
+  },
+  {
+    "stepNumber": 148,
+    "section": "Bank 9",
+    "instruction": "Take Ship to Karamja (Seamen dressed in blue)",
+    "entities": [{ "type": "NPC", "gameId": 3648 }],
+    "location": { "x": 3029, "y": 3217, "plane": 0 }
+  },
+  {
+    "stepNumber": 149,
+    "section": "Bank 9",
+    "instruction": "Talk to Luthas and ask for employment (1)",
+    "entities": [{ "type": "NPC", "gameId": 379 }],
+    "location": { "x": 2938, "y": 3152, "plane": 0 }
+  },
+  {
+    "stepNumber": 150,
+    "section": "Bank 9",
+    "instruction": "Fish Raw Shrimps [Karamja Easy Diary] Drop Shrimps",
+    "entities": [{ "type": "NPC", "gameId": 1521 }],
+    "location": { "x": 2924, "y": 3178, "plane": 0 }
+  },
+  {
+    "stepNumber": 151,
+    "section": "Bank 9",
+    "instruction": "Pick 10 bananas",
+    "entities": [{ "type": "OBJECT", "gameId": 2072 }],
+    "location": { "x": 2938, "y": 3155, "plane": 0 }
+  },
+  {
+    "stepNumber": 152,
+    "section": "Bank 9",
+    "instruction": "Buy Karamja Rum",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 431 }],
+    "location": { "x": 2927, "y": 3145, "plane": 0 }
+  },
+  {
+    "stepNumber": 153,
+    "section": "Bank 9",
+    "instruction": "Fill Crate with bananas and use Karamja rum on the crate",
+    "entities": [{ "type": "OBJECT", "gameId": 2072 }],
+    "location": { "x": 2938, "y": 3155, "plane": 0 }
+  },
+  {
+    "stepNumber": 154,
+    "section": "Bank 9",
+    "instruction": "Talk to Luthas",
+    "entities": [{ "type": "NPC", "gameId": 379 }],
+    "location": { "x": 2938, "y": 3152, "plane": 0 }
+  },
+  {
+    "stepNumber": 155,
+    "section": "Bank 9",
+    "instruction": "Take boat back to Port Sarim [Karamja Easy Diary]",
+    "entities": [],
+    "location": { "x": 3029, "y": 3217, "plane": 0 }
+  },
+  {
+    "stepNumber": 156,
+    "section": "Bank 9",
+    "instruction": "Trade Wydin and buy Raw Chicken, 2x Raw Beef, 3x Flour & 2x redberries",
+    "entities": [{ "type": "NPC", "gameId": 557 }],
+    "location": { "x": 3014, "y": 3207, "plane": 0 }
+  },
+  {
+    "stepNumber": 157,
+    "section": "Bank 9",
+    "instruction": "Continue Pirate's Treasure by talking to Wydin to get employed, and collect the rum from the crate.",
+    "entities": [{ "type": "NPC", "gameId": 557 }],
+    "location": { "x": 3014, "y": 3207, "plane": 0 }
+  },
+  {
+    "stepNumber": 158,
+    "section": "Bank 9",
+    "instruction": "Buy 8x Raw Sardines",
+    "entities": [{ "type": "NPC", "gameId": 558 }],
+    "location": { "x": 3014, "y": 3224, "plane": 0 }
+  },
+  {
+    "stepNumber": 159,
+    "section": "Bank 9",
+    "instruction": "Use the Deposit box by Entrana and deposit everything except: Mind Runes, Coins, 1x Raw Beef, Karamja Rum, Onion, Pickaxe & 2x wines (8 Inventory Slots)",
+    "entities": [],
+    "location": { "x": 3047, "y": 3236, "plane": 0 }
+  },
+  {
+    "stepNumber": 160,
+    "section": "Bank 9",
+    "instruction": "Return to Redbeard Frank",
+    "entities": [{ "type": "NPC", "gameId": 918 }],
+    "location": { "x": 3053, "y": 3251, "plane": 0 }
+  },
+  {
+    "stepNumber": 161,
+    "section": "Bank 9",
+    "instruction": "Head West to Betty and buy 2x Eye of Newt & 200 mind runes",
+    "entities": [{ "type": "NPC", "gameId": 583 }],
+    "location": { "x": 3013, "y": 3258, "plane": 0 }
+  },
+  {
+    "stepNumber": 162,
+    "section": "Bank 9",
+    "instruction": "Head South-West and complete Witches Potion (Beef twice on range to burn)",
+    "entities": [{ "type": "NPC", "gameId": 925 }],
+    "location": { "x": 2967, "y": 3205, "plane": 0 }
+  },
+  {
+    "stepNumber": 163,
+    "section": "Bank 9",
+    "instruction": "Take 2x Logs when getting the rat tail",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1511 }],
+    "location": { "x": 2967, "y": 3205, "plane": 0 }
+  },
+  {
+    "stepNumber": 164,
+    "section": "Bank 9",
+    "instruction": "Buy moulds: Ring, Amulet, 2x Necklace, Bracelet, Sickle, Tiara, 3x Needle & 50 Thread (from Rommik in Rimmington)",
+    "entities": [{ "type": "NPC", "gameId": 585 }],
+    "location": { "x": 2976, "y": 3239, "plane": 0 }
+  },
+  {
+    "stepNumber": 165,
+    "section": "Bank 9",
+    "instruction": "Buy 3x Buckets & Shears",
+    "entities": [],
+    "location": { "x": 2955, "y": 3215, "plane": 0 }
+  },
+  {
+    "stepNumber": 166,
+    "section": "Bank 9",
+    "instruction": "Head North-West and collect a Snape Grass",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 231 }],
+    "location": { "x": 2938, "y": 3267, "plane": 0 }
+  },
+  {
+    "stepNumber": 167,
+    "section": "Bank 9",
+    "instruction": "Milk the cow 3x by Crafting guild",
+    "entities": [{ "type": "NPC", "gameId": 2807 }],
+    "location": { "x": 2927, "y": 3293, "plane": 0 }
+  },
+  {
+    "stepNumber": 168,
+    "section": "Bank 9",
+    "instruction": "Kill a cow & take everything",
+    "entities": [{ "type": "NPC", "gameId": 2791 }],
+    "location": { "x": 2927, "y": 3293, "plane": 0 }
+  },
+  {
+    "stepNumber": 169,
+    "section": "Bank 9",
+    "instruction": "Shear a sheep by the Makeover Mage",
+    "entities": [{ "type": "NPC", "gameId": 2786 }],
+    "location": { "x": 2944, "y": 3340, "plane": 0 }
+  },
+  {
+    "stepNumber": 170,
+    "section": "Bank 9",
+    "instruction": "Take Falador Crumbling wall Shortcut [Falador Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 24222 }],
+    "location": { "x": 2936, "y": 3355, "plane": 0 }
+  },
+  {
+    "stepNumber": 171,
+    "section": "Bank 9",
+    "instruction": "Bank at Falador West Bank and deposit all",
+    "entities": [],
+    "location": { "x": 2946, "y": 3368, "plane": 0 }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "stepNumber": 253,
+    "section": "Bank 16",
+    "instruction": "Withdraw: Coins (1 Inventory Spot)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 254,
+    "section": "Bank 16",
+    "instruction": "Buy 100 Soda ash + Sand, 1x Glassblowing pipe, 20 Pineapples (Can also buy at Catherby/Lands End later if stock is bad)",
+    "entities": [],
+    "location": { "x": 2660, "y": 3160, "plane": 0 }
+  },
+  {
+    "stepNumber": 255,
+    "section": "Bank 16",
+    "instruction": "Deposit Inventory",
+    "entities": [],
+    "location": null
+  }
+]

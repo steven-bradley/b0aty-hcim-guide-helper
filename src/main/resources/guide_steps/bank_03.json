@@ -1,0 +1,177 @@
+[
+  {
+    "stepNumber": 60,
+    "section": "Bank 3",
+    "instruction": "Withdraw: Coins, Bones, Beer (3 Inventory Spaces)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 61,
+    "section": "Bank 3",
+    "instruction": "Use the bones on the Stray Dog whenever you find him",
+    "entities": [{ "type": "NPC", "gameId": 2236 }],
+    "location": { "x": 3183, "y": 3435, "plane": 0 }
+  },
+  {
+    "stepNumber": 62,
+    "section": "Bank 3",
+    "instruction": "Head East and buy an Air Staff from Zaff. Equip it.",
+    "entities": [{ "type": "NPC", "gameId": 546 }],
+    "location": { "x": 3202, "y": 3434, "plane": 0 }
+  },
+  {
+    "stepNumber": 63,
+    "section": "Bank 3",
+    "instruction": "Head South & Talk to Aris and start Demon Slayer (1,2,3,4).",
+    "entities": [{ "type": "NPC", "gameId": 5833 }],
+    "location": { "x": 3203, "y": 3424, "plane": 0 }
+  },
+  {
+    "stepNumber": 64,
+    "section": "Bank 3",
+    "instruction": "Head South & Trade Thessalia [Varrock Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 548 }],
+    "location": { "x": 3206, "y": 3417, "plane": 0 }
+  },
+  {
+    "stepNumber": 65,
+    "section": "Bank 3",
+    "instruction": "Buy Pink Skirt & Silk. Wear Pink Skirt in honour of Faux",
+    "entities": [{ "type": "NPC", "gameId": 548 }],
+    "location": { "x": 3206, "y": 3417, "plane": 0 }
+  },
+  {
+    "stepNumber": 66,
+    "section": "Bank 3",
+    "instruction": "Head South to the Sword Shop and go up the ladder. Loot the lit candle.",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 33 }],
+    "location": { "x": 3204, "y": 3403, "plane": 1 }
+  },
+  {
+    "stepNumber": 67,
+    "section": "Bank 3",
+    "instruction": "Head East and talk to Dr Harlow (2, talk again)[Vampyre Slayer]",
+    "entities": [{ "type": "NPC", "gameId": 756 }],
+    "location": { "x": 3222, "y": 3399, "plane": 0 }
+  },
+  {
+    "stepNumber": 68,
+    "section": "Bank 3",
+    "instruction": "Head North. Talk to Romeo (3,1) [Romeo & Juliet]",
+    "entities": [{ "type": "NPC", "gameId": 5037 }],
+    "location": { "x": 3213, "y": 3428, "plane": 0 }
+  },
+  {
+    "stepNumber": 69,
+    "section": "Bank 3",
+    "instruction": "Buy a Newspaper from Benny(1,1)",
+    "entities": [{ "type": "NPC", "gameId": 5925 }],
+    "location": { "x": 3218, "y": 3431, "plane": 0 }
+  },
+  {
+    "stepNumber": 70,
+    "section": "Bank 3",
+    "instruction": "Talk to Shilop to continue Gertrudes Cat (2,2)",
+    "entities": [{ "type": "NPC", "gameId": 7724 }],
+    "location": { "x": 3222, "y": 3435, "plane": 0 }
+  },
+  {
+    "stepNumber": 71,
+    "section": "Bank 3",
+    "instruction": "Talk to Noah (1,3) [Children of the Sun]",
+    "entities": [{ "type": "NPC", "gameId": 12346 }],
+    "location": { "x": 3229, "y": 3428, "plane": 0 }
+  },
+  {
+    "stepNumber": 72,
+    "section": "Bank 3",
+    "instruction": "Complete Children of the Sun",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 73,
+    "section": "Bank 3",
+    "instruction": "Talk to Sir Prysin (3,1,2,2,1,1) [Demon Slayer]",
+    "entities": [{ "type": "NPC", "gameId": 4243 }],
+    "location": { "x": 3204, "y": 3472, "plane": 0 }
+  },
+  {
+    "stepNumber": 74,
+    "section": "Bank 3",
+    "instruction": "Head North and go up 2x Stairs and talk to Captain Rovin (3,1,2,2,3,1) [Demon Slayer]",
+    "entities": [{ "type": "NPC", "gameId": 4244 }],
+    "location": { "x": 3204, "y": 3496, "plane": 2 }
+  },
+  {
+    "stepNumber": 75,
+    "section": "Bank 3",
+    "instruction": "Return down the stairs and talk to Reldo and start Shield of Arrav (1,1).",
+    "entities": [{ "type": "NPC", "gameId": 2655 }],
+    "location": { "x": 3211, "y": 3494, "plane": 0 }
+  },
+  {
+    "stepNumber": 76,
+    "section": "Bank 3",
+    "instruction": "Search for book and talk to Reldo again (1)",
+    "entities": [{ "type": "NPC", "gameId": 2655 }],
+    "location": { "x": 3211, "y": 3494, "plane": 0 }
+  },
+  {
+    "stepNumber": 77,
+    "section": "Bank 3",
+    "instruction": "Head East and up the stairs in the Kitchen. Collect both buckets and fill one up downstairs. Use Bucket of Water on drain outside then refill it.",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1929 }],
+    "location": { "x": 3224, "y": 3497, "plane": 0 }
+  },
+  {
+    "stepNumber": 78,
+    "section": "Bank 3",
+    "instruction": "Take the Pie Dish [Knight's Sword]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 2313 }],
+    "location": { "x": 3208, "y": 3497, "plane": 1 }
+  },
+  {
+    "stepNumber": 79,
+    "section": "Bank 3",
+    "instruction": "Head to King Roald and start Priest in Peril (1,1,3)",
+    "entities": [{ "type": "NPC", "gameId": 5215 }],
+    "location": { "x": 3222, "y": 3473, "plane": 0 }
+  },
+  {
+    "stepNumber": 80,
+    "section": "Bank 3",
+    "instruction": "Talk to Marlo and start Daddy's Home (in a house to the east of the castle) (2,3,3)",
+    "entities": [{ "type": "NPC", "gameId": 10583 }],
+    "location": { "x": 3240, "y": 3471, "plane": 0 }
+  },
+  {
+    "stepNumber": 81,
+    "section": "Bank 3",
+    "instruction": "Pick up the Saw",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 8794 }],
+    "location": { "x": 3240, "y": 3471, "plane": 0 }
+  },
+  {
+    "stepNumber": 82,
+    "section": "Bank 3",
+    "instruction": "Enter Varrock Sewer and take the North-West path to collect the Demon Slayer Key",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 2400 }],
+    "location": { "x": 3226, "y": 9897, "plane": 0 }
+  },
+  {
+    "stepNumber": 83,
+    "section": "Bank 3",
+    "instruction": "Enter Varrock Museum and head downstairs and talk to Orlando Smith (1) and complete the Natural History Quiz for 9 slayer and hunter and 28 kudos.",
+    "entities": [{ "type": "NPC", "gameId": 5965 }],
+    "location": { "x": 3255, "y": 3448, "plane": 0 }
+  },
+  {
+    "stepNumber": 84,
+    "section": "Bank 3",
+    "instruction": "Bank at Varrock East bank and Deposit all",
+    "entities": [],
+    "location": { "x": 3253, "y": 3420, "plane": 0 }
+  }
+]

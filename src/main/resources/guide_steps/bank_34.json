@@ -1,0 +1,100 @@
+[
+  {
+    "stepNumber": 457,
+    "section": "Bank 34",
+    "instruction": "Withdraw: Coins, Desert Robes/boots (buy new ones from Shantay Pass), Chronicle",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 458,
+    "section": "Bank 34",
+    "instruction": "Wield Desert Robes",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 459,
+    "section": "Bank 34",
+    "instruction": "Buy 2x Inventory of Waterskins(4)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 460,
+    "section": "Bank 34",
+    "instruction": "Take Carpet to Pollnivneach",
+    "entities": [],
+    "location": { "x": 3351, "y": 3003, "plane": 0 }
+  },
+  {
+    "stepNumber": 461,
+    "section": "Bank 34",
+    "instruction": "Run towards the Agility Pyramid",
+    "entities": [],
+    "location": { "x": 3354, "y": 2830, "plane": 0 }
+  },
+  {
+    "stepNumber": 462,
+    "section": "Bank 34",
+    "instruction": "Complete the Agility Pyramid until 627,000 Agility Experience. Bank at Nardah when out of food/waterskins. This should net you over 1,000,000GP which we are now going to use to fly through the rest of the guide. The final Agility levels are obtained passively through quests later.",
+    "entities": [],
+    "location": { "x": 3354, "y": 2830, "plane": 0 }
+  },
+  {
+    "stepNumber": 463,
+    "section": "Bank 34",
+    "instruction": "Withdraw a knife and cut a cactus one trip banking at Nardah [Desert Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 2670 }],
+    "location": { "x": 3413, "y": 2908, "plane": 0 }
+  },
+  {
+    "stepNumber": 464,
+    "section": "Bank 34",
+    "instruction": "Chronicle Teleport to Varrock. Drop Waterskins/Jugs",
+    "entities": [],
+    "location": { "x": 3200, "y": 3393, "plane": 0 }
+  },
+  {
+    "stepNumber": 465,
+    "section": "Bank 34",
+    "instruction": "Buy 2x Tinderbox, Cake Tin, 2x Bowl from General Store",
+    "entities": [{ "type": "NPC", "gameId": 522 }],
+    "location": { "x": 3217, "y": 3414, "plane": 0 }
+  },
+  {
+    "stepNumber": 466,
+    "section": "Bank 34",
+    "instruction": "Buy a Fire Staff from Zaff",
+    "entities": [{ "type": "NPC", "gameId": 546 }],
+    "location": { "x": 3202, "y": 3434, "plane": 0 }
+  },
+  {
+    "stepNumber": 467,
+    "section": "Bank 34",
+    "instruction": "Buy 400 Chaos Runes from Aubury",
+    "entities": [{ "type": "NPC", "gameId": 5913 }],
+    "location": { "x": 3253, "y": 3401, "plane": 0 }
+  },
+  {
+    "stepNumber": 468,
+    "section": "Bank 34",
+    "instruction": "Buy a few packs of each elemental rune as well (maybe 500 runes each)",
+    "entities": [{ "type": "NPC", "gameId": 5913 }],
+    "location": { "x": 3253, "y": 3401, "plane": 0 }
+  },
+  {
+    "stepNumber": 469,
+    "section": "Bank 34",
+    "instruction": "Steal a tea [Varrock Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 635 }],
+    "location": { "x": 3271, "y": 3411, "plane": 0 }
+  },
+  {
+    "stepNumber": 470,
+    "section": "Bank 34",
+    "instruction": "Bank at Varrock East Bank. Do Mahogany Home contract if Varrock",
+    "entities": [],
+    "location": { "x": 3253, "y": 3420, "plane": 0 }
+  }
+]

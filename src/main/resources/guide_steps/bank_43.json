@@ -1,0 +1,100 @@
+[
+  {
+    "stepNumber": 558,
+    "section": "Bank 43",
+    "instruction": "Withdraw: Varrock Teleport Runes, Barcrawl Card, Coins, Adamant Scimitar, Bucket, Pickaxe (8 Inventory Slots) + 10x Wines",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 559,
+    "section": "Bank 43",
+    "instruction": "Continue the Barcrawl by talking to Bartender (Jolly Boar Inn)",
+    "entities": [{ "type": "NPC", "gameId": 731 }],
+    "location": { "x": 3278, "y": 3497, "plane": 0 }
+  },
+  {
+    "stepNumber": 560,
+    "section": "Bank 43",
+    "instruction": "Talk to Barge foreman North of Digsite for Bone Voyage",
+    "entities": [{ "type": "NPC", "gameId": 7725 }],
+    "location": { "x": 3364, "y": 3445, "plane": 0 }
+  },
+  {
+    "stepNumber": 561,
+    "section": "Bank 43",
+    "instruction": "Speak to Sawmill Operator (3). Buy 500 Steel Nails",
+    "entities": [{ "type": "NPC", "gameId": 4250 }],
+    "location": { "x": 3302, "y": 3492, "plane": 0 }
+  },
+  {
+    "stepNumber": 562,
+    "section": "Bank 43",
+    "instruction": "Continue Priest in Peril. Mine a limestone as you pass",
+    "entities": [{ "type": "OBJECT", "gameId": 11382 }],
+    "location": { "x": 3405, "y": 3492, "plane": 0 }
+  },
+  {
+    "stepNumber": 563,
+    "section": "Bank 43",
+    "instruction": "Minigame teleport to Barbarian Assault & hand in the Barcrawl after you kill the Temple Guardian",
+    "entities": [{ "type": "NPC", "gameId": 384 }],
+    "location": { "x": 2547, "y": 3560, "plane": 0 }
+  },
+  {
+    "stepNumber": 564,
+    "section": "Bank 43",
+    "instruction": "Teleport to Varrock and speak to King Roald",
+    "entities": [{ "type": "NPC", "gameId": 5215 }],
+    "location": { "x": 3222, "y": 3473, "plane": 0 }
+  },
+  {
+    "stepNumber": 565,
+    "section": "Bank 43",
+    "instruction": "Continue Priest in Peril. Take Golden Key & bones [Demon Slayer]",
+    "entities": [],
+    "location": { "x": 3405, "y": 3488, "plane": 0 }
+  },
+  {
+    "stepNumber": 566,
+    "section": "Bank 43",
+    "instruction": "Teleport to Varrock, bank everything except your runes and coins for the Pure Essence runs",
+    "entities": [],
+    "location": { "x": 3253, "y": 3420, "plane": 0 }
+  },
+  {
+    "stepNumber": 567,
+    "section": "Bank 43",
+    "instruction": "Complete Priest In Peril",
+    "entities": [{ "type": "NPC", "gameId": 5215 }],
+    "location": { "x": 3222, "y": 3473, "plane": 0 }
+  },
+  {
+    "stepNumber": 568,
+    "section": "Bank 43",
+    "instruction": "Start Nature Spirit by talking to Drezel (1,1) (Keep the pie dishes)",
+    "entities": [{ "type": "NPC", "gameId": 1047 }],
+    "location": { "x": 3440, "y": 9895, "plane": 0 }
+  },
+  {
+    "stepNumber": 569,
+    "section": "Bank 43",
+    "instruction": "Telegrab the Pickled brain",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 4003 }],
+    "location": { "x": 3492, "y": 3477, "plane": 0 }
+  },
+  {
+    "stepNumber": 570,
+    "section": "Bank 43",
+    "instruction": "Complete a lap of Canifis Agility Course [Morytania Medium Diary]",
+    "entities": [],
+    "location": { "x": 3505, "y": 3489, "plane": 0 }
+  },
+  {
+    "stepNumber": 571,
+    "section": "Bank 43",
+    "instruction": "Bank at Canafis Bank",
+    "entities": [],
+    "location": { "x": 3512, "y": 3480, "plane": 0 }
+  }
+]

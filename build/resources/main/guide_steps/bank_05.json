@@ -1,0 +1,98 @@
+[
+  {
+    "stepNumber": 104,
+    "section": "Bank 5",
+    "instruction": "Withdraw: Leather Gloves (to pick nettles)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 105,
+    "section": "Bank 5",
+    "instruction": "Travel east to Regulus Cento & travel to Varlamore",
+    "entities": [{ "type": "NPC", "gameId": 12538 }],
+    "location": { "x": 3280, "y": 3413, "plane": 0 }
+  },
+  {
+    "stepNumber": 106,
+    "section": "Bank 5",
+    "instruction": "Open the Minimap and Head South out of the City",
+    "entities": [],
+    "location": { "x": 1700, "y": 3142, "plane": 0 }
+  },
+  {
+    "stepNumber": 107,
+    "section": "Bank 5",
+    "instruction": "Take the 3x Logs, Rope, Pestle & Mortar & Vial of Water",
+    "entities": [
+      { "type": "GROUND_ITEM", "gameId": 1511 },
+      { "type": "GROUND_ITEM", "gameId": 954 },
+      { "type": "GROUND_ITEM", "gameId": 233 },
+      { "type": "GROUND_ITEM", "gameId": 227 }
+    ],
+    "location": { "x": 1700, "y": 3142, "plane": 0 }
+  },
+  {
+    "stepNumber": 108,
+    "section": "Bank 5",
+    "instruction": "Pick 2 Nettles [Ghost's Ahoy][Skippy & The Mogres]",
+    "entities": [{ "type": "OBJECT", "gameId": 4241 }],
+    "location": { "x": 1700, "y": 3140, "plane": 0 }
+  },
+  {
+    "stepNumber": 109,
+    "section": "Bank 5",
+    "instruction": "Collect 1 Sweetcorn [Recipe for Disaster]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 5986 }],
+    "location": { "x": 1700, "y": 3138, "plane": 0 }
+  },
+  {
+    "stepNumber": 110,
+    "section": "Bank 5",
+    "instruction": "Head West to the Hunter's Guild",
+    "entities": [],
+    "location": { "x": 1560, "y": 3060, "plane": 0 }
+  },
+  {
+    "stepNumber": 111,
+    "section": "Bank 5",
+    "instruction": "Collect the needle",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1733 }],
+    "location": { "x": 1560, "y": 3060, "plane": 0 }
+  },
+  {
+    "stepNumber": 112,
+    "section": "Bank 5",
+    "instruction": "Collect a Bucket of Water by the bank chest",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1929 }],
+    "location": { "x": 1560, "y": 3060, "plane": 0 }
+  },
+  {
+    "stepNumber": 113,
+    "section": "Bank 5",
+    "instruction": "Deposit all in the bank chest",
+    "entities": [],
+    "location": { "x": 1560, "y": 3060, "plane": 0 }
+  },
+  {
+    "stepNumber": 114,
+    "section": "Bank 5",
+    "instruction": "Enter Guildmaster Apatura's building and go up both ladders",
+    "entities": [],
+    "location": { "x": 1560, "y": 3060, "plane": 2 }
+  },
+  {
+    "stepNumber": 115,
+    "section": "Bank 5",
+    "instruction": "Loot 28 Eclipse Reds (hop worlds)",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 29215 }],
+    "location": { "x": 1560, "y": 3060, "plane": 2 }
+  },
+  {
+    "stepNumber": 116,
+    "section": "Bank 5",
+    "instruction": "Deposit all.",
+    "entities": [],
+    "location": null
+  }
+]

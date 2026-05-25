@@ -1,0 +1,128 @@
+[
+  {
+    "stepNumber": 172,
+    "section": "Bank 10",
+    "instruction": "Withdraw: Coins, Mind Runes, Raw Rat/Chicken/Beef, 10x Wines, Empty Bucket, Chest Key, Cheese (18 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 173,
+    "section": "Bank 10",
+    "instruction": "Get a haircut North [Falador Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 3230 }],
+    "location": { "x": 2945, "y": 3380, "plane": 0 }
+  },
+  {
+    "stepNumber": 174,
+    "section": "Bank 10",
+    "instruction": "Fill Bucket on Pump [Falador Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 24004 }],
+    "location": { "x": 2949, "y": 3382, "plane": 0 }
+  },
+  {
+    "stepNumber": 175,
+    "section": "Bank 10",
+    "instruction": "Head South and talk to the Squire and start Knight's Sword (1,2,1,1)",
+    "entities": [{ "type": "NPC", "gameId": 606 }],
+    "location": { "x": 2977, "y": 3343, "plane": 0 }
+  },
+  {
+    "stepNumber": 176,
+    "section": "Bank 10",
+    "instruction": "Get a Mahogany Home Beginner Contract from Amy (try and do these whenever passing if viable)",
+    "entities": [{ "type": "NPC", "gameId": 10585 }],
+    "location": { "x": 2989, "y": 3364, "plane": 0 }
+  },
+  {
+    "stepNumber": 177,
+    "section": "Bank 10",
+    "instruction": "Kill a duck in Falador Park [Falador Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 1838 }],
+    "location": { "x": 2989, "y": 3383, "plane": 0 }
+  },
+  {
+    "stepNumber": 178,
+    "section": "Bank 10",
+    "instruction": "Buy 6x Woad Leaves from Wyson the Gardener (1,4)",
+    "entities": [{ "type": "NPC", "gameId": 36 }],
+    "location": { "x": 3004, "y": 3373, "plane": 0 }
+  },
+  {
+    "stepNumber": 179,
+    "section": "Bank 10",
+    "instruction": "Head North of Falador and kill a Black Bear (safespot on trees as it is a 2x2). Collect the Raw Bear Meat, Bones & fur.",
+    "entities": [{ "type": "NPC", "gameId": 106 }],
+    "location": { "x": 2984, "y": 3430, "plane": 0 }
+  },
+  {
+    "stepNumber": 180,
+    "section": "Bank 10",
+    "instruction": "Head to Taverley and talk to the boy to start Witches House (1,1)",
+    "entities": [{ "type": "NPC", "gameId": 895 }],
+    "location": { "x": 2900, "y": 3474, "plane": 0 }
+  },
+  {
+    "stepNumber": 181,
+    "section": "Bank 10",
+    "instruction": "Head North and talk to Kaqemeex to start Druidic Ritual (2,1)",
+    "entities": [{ "type": "NPC", "gameId": 455 }],
+    "location": { "x": 2925, "y": 3484, "plane": 0 }
+  },
+  {
+    "stepNumber": 182,
+    "section": "Bank 10",
+    "instruction": "Complete Witches House quest - Safespot guide for the spider: https://youtu.be/bDB351j-qZI?t=178. Keep the Door Key [Mournings End Pt 2]",
+    "entities": [{ "type": "NPC", "gameId": 898 }],
+    "location": { "x": 2902, "y": 3473, "plane": 0 }
+  },
+  {
+    "stepNumber": 183,
+    "section": "Bank 10",
+    "instruction": "Head South and buy 1x Vial of Water Pack",
+    "entities": [],
+    "location": { "x": 2925, "y": 3484, "plane": 0 }
+  },
+  {
+    "stepNumber": 184,
+    "section": "Bank 10",
+    "instruction": "Complete Druidic Ritual",
+    "entities": [{ "type": "NPC", "gameId": 455 }],
+    "location": { "x": 2925, "y": 3484, "plane": 0 }
+  },
+  {
+    "stepNumber": 185,
+    "section": "Bank 10",
+    "instruction": "Chronicle to Varrock",
+    "entities": [],
+    "location": { "x": 3200, "y": 3393, "plane": 0 }
+  },
+  {
+    "stepNumber": 186,
+    "section": "Bank 10",
+    "instruction": "Go upstairs in Blue Moon inn and continue Pirates Treasure",
+    "entities": [],
+    "location": { "x": 3222, "y": 3399, "plane": 1 }
+  },
+  {
+    "stepNumber": 187,
+    "section": "Bank 10",
+    "instruction": "Talk to Baraek (3,1) [Shield of Arrav]",
+    "entities": [{ "type": "NPC", "gameId": 547 }],
+    "location": { "x": 3218, "y": 3434, "plane": 0 }
+  },
+  {
+    "stepNumber": 188,
+    "section": "Bank 10",
+    "instruction": "Talk to Reldo (2) [Knights Sword]",
+    "entities": [{ "type": "NPC", "gameId": 2655 }],
+    "location": { "x": 3211, "y": 3494, "plane": 0 }
+  },
+  {
+    "stepNumber": 189,
+    "section": "Bank 10",
+    "instruction": "Bank at East Bank",
+    "entities": [],
+    "location": { "x": 3253, "y": 3420, "plane": 0 }
+  }
+]

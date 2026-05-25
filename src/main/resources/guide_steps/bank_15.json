@@ -1,0 +1,37 @@
+[
+  {
+    "stepNumber": 248,
+    "section": "Bank 15",
+    "instruction": "Withdraw: Coins, Pickaxe (2 Inventory Spots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 249,
+    "section": "Bank 15",
+    "instruction": "Head to Port Khazard. Mine 10x Clay on the way",
+    "entities": [{ "type": "OBJECT", "gameId": 11362 }],
+    "location": { "x": 2623, "y": 3147, "plane": 0 }
+  },
+  {
+    "stepNumber": 250,
+    "section": "Bank 15",
+    "instruction": "Buy 5x Flour, 2x Swamp Paste",
+    "entities": [{ "type": "NPC", "gameId": 594 }],
+    "location": { "x": 2660, "y": 3149, "plane": 0 }
+  },
+  {
+    "stepNumber": 251,
+    "section": "Bank 15",
+    "instruction": "Collect 2 Planks",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 960 }],
+    "location": { "x": 2657, "y": 3150, "plane": 0 }
+  },
+  {
+    "stepNumber": 252,
+    "section": "Bank 15",
+    "instruction": "Deposit all at Bank Chest",
+    "entities": [],
+    "location": { "x": 2660, "y": 3160, "plane": 0 }
+  }
+]

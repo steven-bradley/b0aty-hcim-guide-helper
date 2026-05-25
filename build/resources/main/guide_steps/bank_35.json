@@ -1,0 +1,93 @@
+[
+  {
+    "stepNumber": 471,
+    "section": "Bank 35",
+    "instruction": "Withdraw: Coins, Chaos Runes, Air Staff, Leather Gloves, 10x Empty Bucket, Barcrawl, Unstamped Letter (16 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 472,
+    "section": "Bank 35",
+    "instruction": "Talk to Haig Halen to continue Digsite (1)",
+    "entities": [{ "type": "NPC", "gameId": 5965 }],
+    "location": { "x": 3255, "y": 3448, "plane": 0 }
+  },
+  {
+    "stepNumber": 473,
+    "section": "Bank 35",
+    "instruction": "Home teleport to Lumbridge",
+    "entities": [],
+    "location": { "x": 3222, "y": 3218, "plane": 0 }
+  },
+  {
+    "stepNumber": 474,
+    "section": "Bank 35",
+    "instruction": "Head to the Shantay Pass",
+    "entities": [{ "type": "NPC", "gameId": 836 }],
+    "location": { "x": 3304, "y": 3124, "plane": 0 }
+  },
+  {
+    "stepNumber": 475,
+    "section": "Bank 35",
+    "instruction": "Continue The Feud. Travel to Pollnivneach via Magic Carpet",
+    "entities": [],
+    "location": { "x": 3351, "y": 3003, "plane": 0 }
+  },
+  {
+    "stepNumber": 476,
+    "section": "Bank 35",
+    "instruction": "During the quest, collect 10x Ugthanki dung [My Arms Big Adventure + Camulet]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1824 }],
+    "location": { "x": 3351, "y": 3003, "plane": 0 }
+  },
+  {
+    "stepNumber": 477,
+    "section": "Bank 35",
+    "instruction": "Safespot the Tough Guy over a chair. Take the Willow Blackjack & bones [Demon Slayer]",
+    "entities": [{ "type": "NPC", "gameId": 1904 }],
+    "location": { "x": 3351, "y": 3003, "plane": 0 }
+  },
+  {
+    "stepNumber": 478,
+    "section": "Bank 35",
+    "instruction": "Safespot the Bandit Champion over the stool or chairs in the house next to the Bandit leader. Take the bones & Adamant Scimitar [Demon Slayer]",
+    "entities": [{ "type": "NPC", "gameId": 1905 }],
+    "location": { "x": 3351, "y": 3003, "plane": 0 }
+  },
+  {
+    "stepNumber": 479,
+    "section": "Bank 35",
+    "instruction": "Complete The Feud",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 480,
+    "section": "Bank 35",
+    "instruction": "After completing the quest talk to Ali Morrisane again. (2) To start Rogue Trader Runes Shop miniquest",
+    "entities": [{ "type": "NPC", "gameId": 1862 }],
+    "location": { "x": 3304, "y": 3211, "plane": 0 }
+  },
+  {
+    "stepNumber": 481,
+    "section": "Bank 35",
+    "instruction": "Chronicle to Varrock. Continue Barcrawl with Bartender (Blue Moon Inn) (4)",
+    "entities": [{ "type": "NPC", "gameId": 734 }],
+    "location": { "x": 3222, "y": 3399, "plane": 0 }
+  },
+  {
+    "stepNumber": 482,
+    "section": "Bank 35",
+    "instruction": "Talk to Aubury (5)",
+    "entities": [{ "type": "NPC", "gameId": 5913 }],
+    "location": { "x": 3253, "y": 3401, "plane": 0 }
+  },
+  {
+    "stepNumber": 483,
+    "section": "Bank 35",
+    "instruction": "Bank at Varrock East Bank",
+    "entities": [],
+    "location": { "x": 3253, "y": 3420, "plane": 0 }
+  }
+]

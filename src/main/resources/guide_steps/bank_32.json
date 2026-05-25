@@ -1,0 +1,44 @@
+[
+  {
+    "stepNumber": 434,
+    "section": "Bank 32",
+    "instruction": "Withdraw: Food, 4 Flax",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 435,
+    "section": "Bank 32",
+    "instruction": "OPTIONAL: Hop to Foresty World with Forestry kit. Cut a regular tree every 3 laps to qualify for Forestry events. Complete any that spawn that are worth. (You will also get more MoG doing this)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 436,
+    "section": "Bank 32",
+    "instruction": "Train Agility to 65 at Seers Course",
+    "entities": [],
+    "location": { "x": 2729, "y": 3488, "plane": 0 }
+  },
+  {
+    "stepNumber": 437,
+    "section": "Bank 32",
+    "instruction": "Play the Organ after the first completion [Kandarin Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 25814 }],
+    "location": { "x": 2726, "y": 3472, "plane": 0 }
+  },
+  {
+    "stepNumber": 438,
+    "section": "Bank 32",
+    "instruction": "Spin 4 Flax on first trip [Western Province Easy Diary]",
+    "entities": [{ "type": "OBJECT", "gameId": 14889 }],
+    "location": { "x": 2715, "y": 3471, "plane": 1 }
+  },
+  {
+    "stepNumber": 439,
+    "section": "Bank 32",
+    "instruction": "Stay until 60 Marks of Grace for Graceful Legs if you want them",
+    "entities": [],
+    "location": null
+  }
+]

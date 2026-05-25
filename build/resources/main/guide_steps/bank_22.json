@@ -1,0 +1,65 @@
+[
+  {
+    "stepNumber": 311,
+    "section": "Bank 22",
+    "instruction": "Withdraw: Coins, Silk",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 312,
+    "section": "Bank 22",
+    "instruction": "Sell Silk to the Silk merchant for 60 coins (3,2) [Ardougne Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 8688 }],
+    "location": { "x": 2657, "y": 3300, "plane": 0 }
+  },
+  {
+    "stepNumber": 313,
+    "section": "Bank 22",
+    "instruction": "Steal cakes until 6,099 Thieving Experience (Keep 20 Bread)",
+    "entities": [{ "type": "OBJECT", "gameId": 11730 }],
+    "location": { "x": 2667, "y": 3310, "plane": 0 }
+  },
+  {
+    "stepNumber": 314,
+    "section": "Bank 22",
+    "instruction": "Teleport to Essence Mine via right click Wizard Cromperty [Ardougne Easy Diary]",
+    "entities": [{ "type": "NPC", "gameId": 2328 }],
+    "location": { "x": 2682, "y": 3323, "plane": 0 }
+  },
+  {
+    "stepNumber": 315,
+    "section": "Bank 22",
+    "instruction": "Talk to Wizard Cromperty (2,2,1) [Tribal Totem]",
+    "entities": [{ "type": "NPC", "gameId": 2328 }],
+    "location": { "x": 2682, "y": 3323, "plane": 0 }
+  },
+  {
+    "stepNumber": 316,
+    "section": "Bank 22",
+    "instruction": "Continue Tribal Totem (WARNING: RIGHT CLICK INVESTIGATE STAIRS AFTER OPENING DOOR WITH CODE KURT)",
+    "entities": [],
+    "location": { "x": 2667, "y": 3322, "plane": 0 }
+  },
+  {
+    "stepNumber": 317,
+    "section": "Bank 22",
+    "instruction": "Complete Tribal Totem. Keep 1 Swordfish [Family Crest Quest]",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 318,
+    "section": "Bank 22",
+    "instruction": "Buy 15 Pineapples from Charter Ships",
+    "entities": [],
+    "location": { "x": 2680, "y": 3275, "plane": 0 }
+  },
+  {
+    "stepNumber": 319,
+    "section": "Bank 22",
+    "instruction": "Take Boat to Ardougne & bank at the South Bank",
+    "entities": [],
+    "location": { "x": 2655, "y": 3283, "plane": 0 }
+  }
+]

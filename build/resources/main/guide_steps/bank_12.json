@@ -1,0 +1,146 @@
+[
+  {
+    "stepNumber": 207,
+    "section": "Bank 12",
+    "instruction": "Withdraw: Coins, Pie Dish, Pickaxe, 2x Iron Bars, 5x House Teleport Tablet, 1x Falador Teleport Tablet, 15 Wines, Bucket of Water, Biohazard Items (27 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 208,
+    "section": "Bank 12",
+    "instruction": "Take the boat to Rimmington",
+    "entities": [],
+    "location": { "x": 2951, "y": 3224, "plane": 0 }
+  },
+  {
+    "stepNumber": 209,
+    "section": "Bank 12",
+    "instruction": "Talk to the Chemist continue Biohazard (2)",
+    "entities": [{ "type": "NPC", "gameId": 367 }],
+    "location": { "x": 2933, "y": 3209, "plane": 0 }
+  },
+  {
+    "stepNumber": 210,
+    "section": "Bank 12",
+    "instruction": "Give Chancy the Honey, Da Vinci Ethenea & Hops Sulphuric Broline",
+    "entities": [
+      { "type": "NPC", "gameId": 340 },
+      { "type": "NPC", "gameId": 341 },
+      { "type": "NPC", "gameId": 342 }
+    ],
+    "location": { "x": 3037, "y": 3259, "plane": 0 }
+  },
+  {
+    "stepNumber": 211,
+    "section": "Bank 12",
+    "instruction": "Head to Port Sarim",
+    "entities": [],
+    "location": { "x": 3014, "y": 3207, "plane": 0 }
+  },
+  {
+    "stepNumber": 212,
+    "section": "Bank 12",
+    "instruction": "Buy Flour and Redberries from the Port Sarim food shop and make an Uncooked redberry pie",
+    "entities": [{ "type": "NPC", "gameId": 557 }],
+    "location": { "x": 3014, "y": 3207, "plane": 0 }
+  },
+  {
+    "stepNumber": 213,
+    "section": "Bank 12",
+    "instruction": "Cook the pie North (If you burn this, just repeat the steps until you succeed)",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 2325 }],
+    "location": { "x": 3014, "y": 3210, "plane": 0 }
+  },
+  {
+    "stepNumber": 214,
+    "section": "Bank 12",
+    "instruction": "WALK South to Thurgo and continue Knights Sword (2,1) (you want run energy for next step)",
+    "entities": [{ "type": "NPC", "gameId": 604 }],
+    "location": { "x": 3001, "y": 3144, "plane": 0 }
+  },
+  {
+    "stepNumber": 215,
+    "section": "Bank 12",
+    "instruction": "Head into Asgarnia dungeon (Chronicle is emergency teleport if you gargle). Mine 2x Blurite Ore (Make sure to safe spot the Ice Warriors first. DO NOT TANK THEM WHILE MINING)",
+    "entities": [{ "type": "OBJECT", "gameId": 10943 }],
+    "location": { "x": 3049, "y": 9566, "plane": 0 }
+  },
+  {
+    "stepNumber": 216,
+    "section": "Bank 12",
+    "instruction": "Teleport to Falador with Teletab",
+    "entities": [],
+    "location": { "x": 2965, "y": 3378, "plane": 0 }
+  },
+  {
+    "stepNumber": 217,
+    "section": "Bank 12",
+    "instruction": "Continue Knights Sword",
+    "entities": [{ "type": "NPC", "gameId": 606 }],
+    "location": { "x": 2977, "y": 3343, "plane": 0 }
+  },
+  {
+    "stepNumber": 218,
+    "section": "Bank 12",
+    "instruction": "Use House teleport to return to Thurgo",
+    "entities": [{ "type": "NPC", "gameId": 604 }],
+    "location": { "x": 3001, "y": 3144, "plane": 0 }
+  },
+  {
+    "stepNumber": 219,
+    "section": "Bank 12",
+    "instruction": "Walk back to Falador after you get the sword.",
+    "entities": [],
+    "location": { "x": 2965, "y": 3378, "plane": 0 }
+  },
+  {
+    "stepNumber": 220,
+    "section": "Bank 12",
+    "instruction": "Complete Knights Sword",
+    "entities": [{ "type": "NPC", "gameId": 606 }],
+    "location": { "x": 2977, "y": 3343, "plane": 0 }
+  },
+  {
+    "stepNumber": 221,
+    "section": "Bank 12",
+    "instruction": "Home teleport to Lumbridge",
+    "entities": [],
+    "location": { "x": 3222, "y": 3218, "plane": 0 }
+  },
+  {
+    "stepNumber": 222,
+    "section": "Bank 12",
+    "instruction": "Head to Al Kharid",
+    "entities": [],
+    "location": { "x": 3293, "y": 3174, "plane": 0 }
+  },
+  {
+    "stepNumber": 223,
+    "section": "Bank 12",
+    "instruction": "Start Prince Ali Rescue talking to Chancellor Hassan (1)",
+    "entities": [{ "type": "NPC", "gameId": 923 }],
+    "location": { "x": 3298, "y": 3163, "plane": 0 }
+  },
+  {
+    "stepNumber": 224,
+    "section": "Bank 12",
+    "instruction": "Take Jug of Water",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1937 }],
+    "location": { "x": 3298, "y": 3163, "plane": 0 }
+  },
+  {
+    "stepNumber": 225,
+    "section": "Bank 12",
+    "instruction": "Talk to Osman",
+    "entities": [{ "type": "NPC", "gameId": 5282 }],
+    "location": { "x": 3286, "y": 3179, "plane": 0 }
+  },
+  {
+    "stepNumber": 226,
+    "section": "Bank 12",
+    "instruction": "Head to Shantay Pass. Deposit all",
+    "entities": [{ "type": "NPC", "gameId": 836 }],
+    "location": { "x": 3304, "y": 3124, "plane": 0 }
+  }
+]

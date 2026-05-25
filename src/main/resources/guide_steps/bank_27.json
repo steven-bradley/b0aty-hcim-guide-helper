@@ -1,0 +1,44 @@
+[
+  {
+    "stepNumber": 353,
+    "section": "Bank 27",
+    "instruction": "Withdraw: 3x balls of wool, Ashes, Coins, Clay, Pot of Flour, 2x Bucket of Water, 4x Onions, 6x Woad Leaves & 1x Redberries (15 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 354,
+    "section": "Bank 27",
+    "instruction": "Make Soft Clay",
+    "entities": [{ "type": "INVENTORY_ITEM", "gameId": 1761 }],
+    "location": null
+  },
+  {
+    "stepNumber": 355,
+    "section": "Bank 27",
+    "instruction": "Continue Prince Ali Rescue until you need to return to Osman",
+    "entities": [{ "type": "NPC", "gameId": 5282 }],
+    "location": { "x": 3286, "y": 3179, "plane": 0 }
+  },
+  {
+    "stepNumber": 356,
+    "section": "Bank 27",
+    "instruction": "Make Dyes on Aggie (You will use these dyes later) (2 Yellow, 3 Blue, 1 Skin paste)",
+    "entities": [{ "type": "NPC", "gameId": 922 }],
+    "location": { "x": 3086, "y": 3258, "plane": 0 }
+  },
+  {
+    "stepNumber": 357,
+    "section": "Bank 27",
+    "instruction": "Take Cheese [Mournings End Pt 2]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 1985 }],
+    "location": { "x": 3086, "y": 3258, "plane": 0 }
+  },
+  {
+    "stepNumber": 358,
+    "section": "Bank 27",
+    "instruction": "Deposit All",
+    "entities": [],
+    "location": { "x": 3092, "y": 3245, "plane": 0 }
+  }
+]

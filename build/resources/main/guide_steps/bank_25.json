@@ -1,0 +1,114 @@
+[
+  {
+    "stepNumber": 330,
+    "section": "Bank 25",
+    "instruction": "Withdraw: Coins, Mind Runes, Air Staff, Water Runes, Ghostspeak Amulet, Chronicle, Leather Gloves+Boots, Wizard Hat, Pink Skirt, 5x Wines (15 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 331,
+    "section": "Bank 25",
+    "instruction": "Head East and take Grand Exchange Shortcut",
+    "entities": [],
+    "location": { "x": 3163, "y": 3464, "plane": 0 }
+  },
+  {
+    "stepNumber": 332,
+    "section": "Bank 25",
+    "instruction": "Take Spirit Tree to Gnome Stronghold (2) [Varrock Medium Diary]",
+    "entities": [],
+    "location": { "x": 2461, "y": 3444, "plane": 0 }
+  },
+  {
+    "stepNumber": 333,
+    "section": "Bank 25",
+    "instruction": "Continue Grand Tree",
+    "entities": [{ "type": "NPC", "gameId": 670 }],
+    "location": { "x": 2465, "y": 3496, "plane": 0 }
+  },
+  {
+    "stepNumber": 334,
+    "section": "Bank 25",
+    "instruction": "During Grand Tree, Kill Foreman and take bones [Demon Slayer]",
+    "entities": [{ "type": "NPC", "gameId": 677 }],
+    "location": { "x": 2784, "y": 3187, "plane": 0 }
+  },
+  {
+    "stepNumber": 335,
+    "section": "Bank 25",
+    "instruction": "Buy 15 Pineapples at the Shipyard",
+    "entities": [],
+    "location": { "x": 2784, "y": 3187, "plane": 0 }
+  },
+  {
+    "stepNumber": 336,
+    "section": "Bank 25",
+    "instruction": "Charter to Brimhaven [Karamja Medium Diary]",
+    "entities": [],
+    "location": { "x": 2772, "y": 3234, "plane": 0 }
+  },
+  {
+    "stepNumber": 337,
+    "section": "Bank 25",
+    "instruction": "Return to Ardougne & deposit the Pineapples & bones in the South Bank",
+    "entities": [],
+    "location": { "x": 2655, "y": 3283, "plane": 0 }
+  },
+  {
+    "stepNumber": 338,
+    "section": "Bank 25",
+    "instruction": "Head West. Buy 8x Papyrus from General Store",
+    "entities": [],
+    "location": { "x": 2614, "y": 3295, "plane": 0 }
+  },
+  {
+    "stepNumber": 339,
+    "section": "Bank 25",
+    "instruction": "Take Spirit Tree from Khazard Battlefield to Gnome Stronghold (2)",
+    "entities": [],
+    "location": { "x": 2461, "y": 3444, "plane": 0 }
+  },
+  {
+    "stepNumber": 340,
+    "section": "Bank 25",
+    "instruction": "Continue The Grand Tree",
+    "entities": [{ "type": "NPC", "gameId": 670 }],
+    "location": { "x": 2465, "y": 3496, "plane": 0 }
+  },
+  {
+    "stepNumber": 341,
+    "section": "Bank 25",
+    "instruction": "When you go talk to Anita, take 2 Swamp toads [Tai Bwo Wannai Trio]",
+    "entities": [{ "type": "NPC", "gameId": 678 }],
+    "location": { "x": 2386, "y": 3513, "plane": 0 }
+  },
+  {
+    "stepNumber": 342,
+    "section": "Bank 25",
+    "instruction": "Drop Glough's Key after getting the Invasion Plans",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 343,
+    "section": "Bank 25",
+    "instruction": "Black Demon Safespot (Use Waterspells): https://youtu.be/D7wFjCCKRAU?si=NiUw7IwqlugmrGlu&t=23",
+    "entities": [{ "type": "NPC", "gameId": 4005 }],
+    "location": { "x": 2465, "y": 3496, "plane": 0 }
+  },
+  {
+    "stepNumber": 344,
+    "section": "Bank 25",
+    "instruction": "Complete Grand Tree",
+    "entities": [{ "type": "NPC", "gameId": 670 }],
+    "location": { "x": 2465, "y": 3496, "plane": 0 }
+  },
+  {
+    "stepNumber": 345,
+    "section": "Bank 25",
+    "instruction": "Bank and deposit inventory",
+    "entities": [],
+    "location": { "x": 2449, "y": 3482, "plane": 1 }
+  }
+]

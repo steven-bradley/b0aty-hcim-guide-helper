@@ -1,0 +1,51 @@
+[
+  {
+    "stepNumber": 542,
+    "section": "Bank 40",
+    "instruction": "Withdraw: Teleport Runes, Coins, Molten Glass, Bronze Bar, 3 Planks (11 Inventory Slots)",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 543,
+    "section": "Bank 40",
+    "instruction": "Head North and complete Observatory Quest (trap the goblin)",
+    "entities": [{ "type": "NPC", "gameId": 489 }],
+    "location": { "x": 2438, "y": 3161, "plane": 0 }
+  },
+  {
+    "stepNumber": 544,
+    "section": "Bank 40",
+    "instruction": "Collect 4x Super Antipoison (1) and decant into 4 dose potion",
+    "entities": [],
+    "location": null
+  },
+  {
+    "stepNumber": 545,
+    "section": "Bank 40",
+    "instruction": "Take 15 Bones while passing by looting the South chests near the stairs [Demon Slayer]",
+    "entities": [{ "type": "GROUND_ITEM", "gameId": 526 }],
+    "location": { "x": 2438, "y": 3161, "plane": 0 }
+  },
+  {
+    "stepNumber": 546,
+    "section": "Bank 40",
+    "instruction": "Teleport to Varrock",
+    "entities": [],
+    "location": { "x": 3213, "y": 3424, "plane": 0 }
+  },
+  {
+    "stepNumber": 547,
+    "section": "Bank 40",
+    "instruction": "Buy an Adamant Sword, Black Dagger, Steel Longsword, 2x Steel Swords, Steel Dagger",
+    "entities": [{ "type": "NPC", "gameId": 551 }],
+    "location": { "x": 3204, "y": 3403, "plane": 0 }
+  },
+  {
+    "stepNumber": 548,
+    "section": "Bank 40",
+    "instruction": "Bank at Varrock East Bank",
+    "entities": [],
+    "location": { "x": 3253, "y": 3420, "plane": 0 }
+  }
+]
